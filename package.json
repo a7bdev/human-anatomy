@@ -1,0 +1,13 @@
+{
+  "name": "human-anatomy",
+  "version": "1.0.0",
+  "description": "Bilingual (English / Arabic RTL) interactive human-anatomy explorer with disease and drug encyclopedias — pure static, no backend.",
+  "keywords": ["anatomy", "human-body", "medical-education", "arabic", "rtl", "bilingual", "static-site"],
+  "homepage": "https://anatomy.a7bdev.com",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "check": "for f in *.js; do node --check \"$f\"; done"
+  }
+}

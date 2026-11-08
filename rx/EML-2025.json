@@ -1,0 +1,2972 @@
+{
+  "edition": "24th WHO Model List of Essential Medicines",
+  "date": "2025-09-05",
+  "notes": {
+    "extracted_from": [
+      "PDF رسمي: WHO Model List of Essential Medicines – 24th List (2025)، ٧٤ صفحة، من مستودع IRIS (bitstream 17642505-ecd3-4940-a691-4f1dfa0d835a) — حُوّل بـpdftotext -layout واستُخرج نصّاً، لا من الذاكرة.",
+      "PDF رسمي: WHO Model List of Essential Medicines for Children – 10th List (2025)، ٥٢ صفحة (bitstream 337edac2-d0aa-4e19-9d72-3acb11d09808).",
+      "التحقّق من العدد: الفهرس الأبجدي في آخر كل PDF أُعيد تحليله آلياً فأعطى ٥٢٣ مدخلاً للبالغين و٣٧٤ للأطفال — مطابقان تماماً للعددين المعلنين في خبر المنظمة (٥ سبتمبر ٢٠٢٥). لم يُؤخذ اسم واحد من الذاكرة."
+    ],
+    "method": "استُخرجت الأسماء من متن القائمة (العمود الأيسر) ثم قوبلت بالفهرس الأبجدي في آخر الوثيقة؛ الفهرس هو المرجع النهائي للعدد. ثم رُتّبت الأدوية يدوياً حسب الأولوية الاستهلاكية وقُسّمت دفعات عشرة، وتحقّق سكربت أن المجموعة المكتوبة تطابق المجموعة المستخرجة عنصراً بعنصر: صفر زيادة وصفر نقص.",
+    "children_list": "قائمة الأطفال (٣٧٤ دواء) هي مجموعة جزئية كاملة من قائمة البالغين — لا يوجد فيها دواء غائب عن قائمة البالغين إلا فرق تسمية واحد: الأطفال تكتب «anti-rabies monoclonal antibodies» والبالغون «anti-rabies virus monoclonal antibodies»؛ عُوملا مادةً واحدة. لذلك عدد المواد الفريدة في الاتحاد = ٥٢٣.",
+    "unit_rule": "الوحدة = المادة الفعّالة. التركيبات ثابتة الجرعة (FDC) بقيت كما هي لأنها بنودٌ مستقلّة في القائمة نفسها (مثل «الأموكسيسيلين مع حمض الكلافولانيك» و«الأرتيميثر مع اللوميفانترين»). أما البدائل العلاجية داخل «المربّع» (square box) فلم تُدرج بنوداً مستقلّة لأنها ليست مدخلات في القائمة ولا تُحتسب ضمن الـ٥٢٣ — وفيها أسماء شائعة خليجياً كالسيتيريزين والفيكسوفينادين والأوكسيكودون والبريدنيزون؛ يُنظر في إضافتها لاحقاً كتوسعة واعية لا كجزء من قائمة المنظمة.",
+    "not_drugs": "القائمة تضمّ بنوداً ليست أدوية بالمعنى الدارج لكنها مدخلات رسمية فيها فلم تُسقَط: الواقي الذكري · العازل المهبلي · اللولب النحاسي · الدم الكامل وكريات الدم الحمراء والصفائح والبلازما · ماء الحقن · الغذاء العلاجي الجاهز · مواد الأسنان (أسمنت الأيونومر الزجاجي والكمبوزيت الراتنجي). وُضعت كلها في دفعات متأخّرة.",
+    "doubts": [
+      "«erythromycin» في الطبعة ٢٤ لم يعد مدرجاً إلا في باب العين (21.1) — وُضع في دفعة العيون وفاءً للقائمة، مع أنه ماكروليد فموي شهير.",
+      "«nifedipine» مدرج في القائمة تحت مثبّطات المخاض (22.5) فقط؛ وُضع في دفعة القلب والضغط لأن هذا ما يمسكه الإنسان بيده، وهذا اجتهاد في الترتيب لا في المحتوى.",
+      "«propranolol» مدرج تحت الوقاية من الشقيقة (5.1.5.2) فقط؛ وُضع مع المسكّنات والصداع.",
+      "«potassium iodide» مدرج مرّتين (مضادات الفطريات 6.3 والغدة الدرقية 18.7) — أُدرج مرة واحدة في باب الغدد.",
+      "أسماء «insulin» الأربعة و«doxorubicin» الشحمي و«resin-based composite» بنوعيه وُلّدت لها معرّفات يدوية لأن التوليد الآلي كان يكرّرها.",
+      "الأسماء العربية اجتهاد في النقل الشائع خليجياً (وأغلبها معرّب صوتياً كما يُنطق في الصيدليات)؛ ليست ترجمة رسمية من المنظمة."
+    ],
+    "not_done": "لم يُستخرج شيء من الملاحق (Annexes) ولا من جداول الأشكال الصيدلانية ولا من التصنيف AWaRe — لأنها ليست مواد فعّالة. ولم تُكتب أي بطاقة دواء.",
+    "naming": "حقل en هو الاسم كما ورد حرفياً في قائمة المنظمة، مع تكبير أول حرف فقط (المنظمة تطبعها كلها بحروف صغيرة)."
+  },
+  "sources": [
+    "https://www.who.int/publications/i/item/B09474",
+    "https://iris.who.int/server/api/core/bitstreams/17642505-ecd3-4940-a691-4f1dfa0d835a/content",
+    "https://www.who.int/publications/i/item/B09475",
+    "https://iris.who.int/server/api/core/bitstreams/337edac2-d0aa-4e19-9d72-3acb11d09808/content",
+    "https://www.who.int/news/item/05-09-2025-who-updates-list-of-essential-medicines-to-include-key-cancer--diabetes-treatments"
+  ],
+  "counts": {
+    "adults": 523,
+    "children": 374,
+    "unique_ingredients": 523
+  },
+  "batches": [
+    {
+      "tag": "analg1",
+      "section": "مسكّنات وخافضات حرارة وأفيونات · حساسية وكورتيزونات",
+      "drugs": [
+        {
+          "id": "paracetamol",
+          "en": "Paracetamol (acetaminophen)",
+          "ar": "الباراسيتامول"
+        },
+        {
+          "id": "ibuprofen",
+          "en": "Ibuprofen",
+          "ar": "الإيبوبروفين"
+        },
+        {
+          "id": "acetylsalicylic-acid",
+          "en": "Acetylsalicylic acid",
+          "ar": "الأسبرين"
+        },
+        {
+          "id": "codeine",
+          "en": "Codeine",
+          "ar": "الكودايين"
+        },
+        {
+          "id": "morphine",
+          "en": "Morphine",
+          "ar": "المورفين"
+        },
+        {
+          "id": "fentanyl",
+          "en": "Fentanyl",
+          "ar": "الفنتانيل"
+        },
+        {
+          "id": "methadone",
+          "en": "Methadone",
+          "ar": "الميثادون"
+        },
+        {
+          "id": "sumatriptan",
+          "en": "Sumatriptan",
+          "ar": "السوماتريبتان"
+        },
+        {
+          "id": "propranolol",
+          "en": "Propranolol",
+          "ar": "البروبرانولول"
+        },
+        {
+          "id": "loratadine",
+          "en": "Loratadine",
+          "ar": "اللوراتادين"
+        }
+      ]
+    },
+    {
+      "tag": "allergy1",
+      "section": "حساسية وكورتيزونات · معدة وأمعاء وغثيان وإمساك",
+      "drugs": [
+        {
+          "id": "prednisolone",
+          "en": "Prednisolone",
+          "ar": "البريدنيزولون"
+        },
+        {
+          "id": "hydrocortisone",
+          "en": "Hydrocortisone",
+          "ar": "الهيدروكورتيزون"
+        },
+        {
+          "id": "dexamethasone",
+          "en": "Dexamethasone",
+          "ar": "الديكساميثازون"
+        },
+        {
+          "id": "epinephrine",
+          "en": "Epinephrine (adrenaline)",
+          "ar": "الأدرينالين"
+        },
+        {
+          "id": "methylprednisolone",
+          "en": "Methylprednisolone",
+          "ar": "الميثيل بريدنيزولون"
+        },
+        {
+          "id": "fludrocortisone",
+          "en": "Fludrocortisone",
+          "ar": "الفلودروكورتيزون"
+        },
+        {
+          "id": "omeprazole",
+          "en": "Omeprazole",
+          "ar": "الأوميبرازول"
+        },
+        {
+          "id": "ranitidine",
+          "en": "Ranitidine",
+          "ar": "الرانيتيدين"
+        },
+        {
+          "id": "metoclopramide",
+          "en": "Metoclopramide",
+          "ar": "الميتوكلوبراميد"
+        },
+        {
+          "id": "ondansetron",
+          "en": "Ondansetron",
+          "ar": "الأوندانسيترون"
+        }
+      ]
+    },
+    {
+      "tag": "gi1",
+      "section": "معدة وأمعاء وغثيان وإمساك",
+      "drugs": [
+        {
+          "id": "aprepitant",
+          "en": "Aprepitant",
+          "ar": "الأبريبيتانت"
+        },
+        {
+          "id": "cyclizine",
+          "en": "Cyclizine",
+          "ar": "السيكليزين"
+        },
+        {
+          "id": "hyoscine-butylbromide",
+          "en": "Hyoscine butylbromide",
+          "ar": "الهيوسين بيوتيل برومايد"
+        },
+        {
+          "id": "hyoscine-hydrobromide",
+          "en": "Hyoscine hydrobromide",
+          "ar": "الهيوسين هيدروبرومايد"
+        },
+        {
+          "id": "loperamide",
+          "en": "Loperamide",
+          "ar": "اللوبيراميد"
+        },
+        {
+          "id": "senna",
+          "en": "Senna",
+          "ar": "السنامكي"
+        },
+        {
+          "id": "docusate-sodium",
+          "en": "Docusate sodium",
+          "ar": "الدوكوسات الصوديوم"
+        },
+        {
+          "id": "lactulose",
+          "en": "Lactulose",
+          "ar": "اللاكتيولوز"
+        },
+        {
+          "id": "oral-rehydration-salts",
+          "en": "Oral rehydration salts",
+          "ar": "أملاح الإماهة الفموية"
+        },
+        {
+          "id": "oral-rehydration-salts-zinc-sulfate",
+          "en": "Oral rehydration salts – zinc sulfate",
+          "ar": "أملاح الإماهة الفموية مع كبريتات الزنك"
+        }
+      ]
+    },
+    {
+      "tag": "gi2",
+      "section": "معدة وأمعاء وغثيان وإمساك · مضادات حيوية فموية شائعة",
+      "drugs": [
+        {
+          "id": "zinc-sulfate",
+          "en": "Zinc sulfate",
+          "ar": "كبريتات الزنك"
+        },
+        {
+          "id": "sulfasalazine",
+          "en": "Sulfasalazine",
+          "ar": "السلفاسالازين"
+        },
+        {
+          "id": "pancreatic-enzymes",
+          "en": "Pancreatic enzymes",
+          "ar": "إنزيمات البنكرياس"
+        },
+        {
+          "id": "amoxicillin",
+          "en": "Amoxicillin",
+          "ar": "الأموكسيسيلين"
+        },
+        {
+          "id": "amoxicillin-clavulanic-acid",
+          "en": "Amoxicillin + clavulanic acid",
+          "ar": "الأموكسيسيلين مع حمض الكلافولانيك"
+        },
+        {
+          "id": "phenoxymethylpenicillin",
+          "en": "Phenoxymethylpenicillin",
+          "ar": "الفينوكسي ميثيل بنسلين"
+        },
+        {
+          "id": "cloxacillin",
+          "en": "Cloxacillin",
+          "ar": "الكلوكساسيلين"
+        },
+        {
+          "id": "cefalexin",
+          "en": "Cefalexin",
+          "ar": "السيفاليكسين"
+        },
+        {
+          "id": "cefixime",
+          "en": "Cefixime",
+          "ar": "السيفيكسيم"
+        },
+        {
+          "id": "cefuroxime",
+          "en": "Cefuroxime",
+          "ar": "السيفوروكسيم"
+        }
+      ]
+    },
+    {
+      "tag": "abx1",
+      "section": "مضادات حيوية فموية شائعة",
+      "drugs": [
+        {
+          "id": "azithromycin",
+          "en": "Azithromycin",
+          "ar": "الأزيثرومايسين"
+        },
+        {
+          "id": "clarithromycin",
+          "en": "Clarithromycin",
+          "ar": "الكلاريثرومايسين"
+        },
+        {
+          "id": "doxycycline",
+          "en": "Doxycycline",
+          "ar": "الدوكسيسيكلين"
+        },
+        {
+          "id": "ciprofloxacin",
+          "en": "Ciprofloxacin",
+          "ar": "السيبروفلوكساسين"
+        },
+        {
+          "id": "metronidazole",
+          "en": "Metronidazole",
+          "ar": "الميترونيدازول"
+        },
+        {
+          "id": "nitrofurantoin",
+          "en": "Nitrofurantoin",
+          "ar": "النيتروفورانتوين"
+        },
+        {
+          "id": "trimethoprim",
+          "en": "Trimethoprim",
+          "ar": "التريميثوبريم"
+        },
+        {
+          "id": "sulfamethoxazole-trimethoprim",
+          "en": "Sulfamethoxazole + trimethoprim",
+          "ar": "الكوتريموكسازول"
+        },
+        {
+          "id": "clindamycin",
+          "en": "Clindamycin",
+          "ar": "الكليندامايسين"
+        },
+        {
+          "id": "chloramphenicol",
+          "en": "Chloramphenicol",
+          "ar": "الكلورامفينيكول"
+        }
+      ]
+    },
+    {
+      "tag": "abxiv1",
+      "section": "مضادات حيوية حقنية ومستشفوية",
+      "drugs": [
+        {
+          "id": "ampicillin",
+          "en": "Ampicillin",
+          "ar": "الأمبيسيلين"
+        },
+        {
+          "id": "benzylpenicillin",
+          "en": "Benzylpenicillin",
+          "ar": "البنزيل بنسلين"
+        },
+        {
+          "id": "benzathine-benzylpenicillin",
+          "en": "Benzathine benzylpenicillin",
+          "ar": "البنزاثين بنزيل بنسلين"
+        },
+        {
+          "id": "procaine-benzylpenicillin",
+          "en": "Procaine benzylpenicillin",
+          "ar": "البروكايين بنزيل بنسلين"
+        },
+        {
+          "id": "cefazolin",
+          "en": "Cefazolin",
+          "ar": "السيفازولين"
+        },
+        {
+          "id": "ceftriaxone",
+          "en": "Ceftriaxone",
+          "ar": "السيفترياكسون"
+        },
+        {
+          "id": "cefotaxime",
+          "en": "Cefotaxime",
+          "ar": "السيفوتاكسيم"
+        },
+        {
+          "id": "ceftazidime",
+          "en": "Ceftazidime",
+          "ar": "السيفتازيديم"
+        },
+        {
+          "id": "piperacillin-tazobactam",
+          "en": "Piperacillin + tazobactam",
+          "ar": "البيبيراسيلين مع التازوباكتام"
+        },
+        {
+          "id": "meropenem",
+          "en": "Meropenem",
+          "ar": "الميروبينيم"
+        }
+      ]
+    },
+    {
+      "tag": "abxiv2",
+      "section": "مضادات حيوية حقنية ومستشفوية · مضادات حيوية محجوزة (Reserve)",
+      "drugs": [
+        {
+          "id": "vancomycin",
+          "en": "Vancomycin",
+          "ar": "الفانكومايسين"
+        },
+        {
+          "id": "gentamicin",
+          "en": "Gentamicin",
+          "ar": "الجنتاميسين"
+        },
+        {
+          "id": "amikacin",
+          "en": "Amikacin",
+          "ar": "الأميكاسين"
+        },
+        {
+          "id": "spectinomycin",
+          "en": "Spectinomycin",
+          "ar": "السبكتينومايسين"
+        },
+        {
+          "id": "cefiderocol",
+          "en": "Cefiderocol",
+          "ar": "السيفيديروكول"
+        },
+        {
+          "id": "ceftazidime-avibactam",
+          "en": "Ceftazidime + avibactam",
+          "ar": "السيفتازيديم مع الأفيباكتام"
+        },
+        {
+          "id": "ceftolozane-tazobactam",
+          "en": "Ceftolozane + tazobactam",
+          "ar": "السيفتولوزان مع التازوباكتام"
+        },
+        {
+          "id": "colistin",
+          "en": "Colistin",
+          "ar": "الكوليستين"
+        },
+        {
+          "id": "fosfomycin",
+          "en": "Fosfomycin",
+          "ar": "الفوسفومايسين"
+        },
+        {
+          "id": "linezolid",
+          "en": "Linezolid",
+          "ar": "اللينزوليد"
+        }
+      ]
+    },
+    {
+      "tag": "abxres1",
+      "section": "مضادات حيوية محجوزة (Reserve) · مضادات الفطريات",
+      "drugs": [
+        {
+          "id": "meropenem-vaborbactam",
+          "en": "Meropenem + vaborbactam",
+          "ar": "الميروبينيم مع الفابوباكتام"
+        },
+        {
+          "id": "plazomicin",
+          "en": "Plazomicin",
+          "ar": "البلازومايسين"
+        },
+        {
+          "id": "polymyxin-b",
+          "en": "Polymyxin B",
+          "ar": "البوليميكسين ب"
+        },
+        {
+          "id": "fluconazole",
+          "en": "Fluconazole",
+          "ar": "الفلوكونازول"
+        },
+        {
+          "id": "itraconazole",
+          "en": "Itraconazole",
+          "ar": "الإتراكونازول"
+        },
+        {
+          "id": "voriconazole",
+          "en": "Voriconazole",
+          "ar": "الفوريكونازول"
+        },
+        {
+          "id": "terbinafine",
+          "en": "Terbinafine",
+          "ar": "التيربينافين"
+        },
+        {
+          "id": "griseofulvin",
+          "en": "Griseofulvin",
+          "ar": "الجريزوفولفين"
+        },
+        {
+          "id": "nystatin",
+          "en": "Nystatin",
+          "ar": "النيستاتين"
+        },
+        {
+          "id": "clotrimazole",
+          "en": "Clotrimazole",
+          "ar": "الكلوتريمازول"
+        }
+      ]
+    },
+    {
+      "tag": "fung1",
+      "section": "مضادات الفطريات · أدوية الجلد",
+      "drugs": [
+        {
+          "id": "miconazole",
+          "en": "Miconazole",
+          "ar": "الميكونازول"
+        },
+        {
+          "id": "selenium-sulfide",
+          "en": "Selenium sulfide",
+          "ar": "كبريتيد السيلينيوم"
+        },
+        {
+          "id": "amphotericin-b",
+          "en": "Amphotericin B",
+          "ar": "الأمفوتيريسين ب"
+        },
+        {
+          "id": "flucytosine",
+          "en": "Flucytosine",
+          "ar": "الفلوسيتوزين"
+        },
+        {
+          "id": "micafungin",
+          "en": "Micafungin",
+          "ar": "الميكافنجين"
+        },
+        {
+          "id": "betamethasone",
+          "en": "Betamethasone",
+          "ar": "البيتاميثازون"
+        },
+        {
+          "id": "calamine",
+          "en": "Calamine",
+          "ar": "الكلامين"
+        },
+        {
+          "id": "mupirocin",
+          "en": "Mupirocin",
+          "ar": "الميوبيروسين"
+        },
+        {
+          "id": "silver-sulfadiazine",
+          "en": "Silver sulfadiazine",
+          "ar": "سلفاديازين الفضة"
+        },
+        {
+          "id": "potassium-permanganate",
+          "en": "Potassium permanganate",
+          "ar": "برمنجنات البوتاسيوم"
+        }
+      ]
+    },
+    {
+      "tag": "derm1",
+      "section": "أدوية الجلد",
+      "drugs": [
+        {
+          "id": "benzoyl-peroxide",
+          "en": "Benzoyl peroxide",
+          "ar": "بيروكسيد البنزويل"
+        },
+        {
+          "id": "salicylic-acid",
+          "en": "Salicylic acid",
+          "ar": "حمض الساليسيليك"
+        },
+        {
+          "id": "coal-tar",
+          "en": "Coal tar",
+          "ar": "قطران الفحم"
+        },
+        {
+          "id": "calcipotriol",
+          "en": "Calcipotriol",
+          "ar": "الكالسيبوتريول"
+        },
+        {
+          "id": "podophyllum-resin",
+          "en": "Podophyllum resin",
+          "ar": "صمغ البودوفيلوم"
+        },
+        {
+          "id": "urea",
+          "en": "Urea",
+          "ar": "اليوريا"
+        },
+        {
+          "id": "glycerol",
+          "en": "Glycerol",
+          "ar": "الجليسرين"
+        },
+        {
+          "id": "sunscreen-broad-spectrum",
+          "en": "Sunscreen, broad-spectrum",
+          "ar": "واقي الشمس واسع الطيف"
+        },
+        {
+          "id": "permethrin",
+          "en": "Permethrin",
+          "ar": "البيرميثرين"
+        },
+        {
+          "id": "benzyl-benzoate",
+          "en": "Benzyl benzoate",
+          "ar": "بنزوات البنزيل"
+        }
+      ]
+    },
+    {
+      "tag": "derm2",
+      "section": "أدوية الجلد · تنفّس وأنف وأذن · قلب وضغط ودهون",
+      "drugs": [
+        {
+          "id": "ustekinumab",
+          "en": "Ustekinumab",
+          "ar": "الأوستيكينوماب"
+        },
+        {
+          "id": "salbutamol",
+          "en": "Salbutamol",
+          "ar": "السالبوتامول"
+        },
+        {
+          "id": "budesonide",
+          "en": "Budesonide",
+          "ar": "البوديزونيد"
+        },
+        {
+          "id": "budesonide-formoterol",
+          "en": "Budesonide + formoterol",
+          "ar": "البوديزونيد مع الفورموتيرول"
+        },
+        {
+          "id": "ipratropium-bromide",
+          "en": "Ipratropium bromide",
+          "ar": "الإبراتروبيوم"
+        },
+        {
+          "id": "tiotropium",
+          "en": "Tiotropium",
+          "ar": "التيوتروبيوم"
+        },
+        {
+          "id": "xylometazoline",
+          "en": "Xylometazoline",
+          "ar": "الزيلوميتازولين"
+        },
+        {
+          "id": "acetic-acid",
+          "en": "Acetic acid",
+          "ar": "حمض الخليك"
+        },
+        {
+          "id": "amlodipine",
+          "en": "Amlodipine",
+          "ar": "الأملوديبين"
+        },
+        {
+          "id": "enalapril",
+          "en": "Enalapril",
+          "ar": "الإينالابريل"
+        }
+      ]
+    },
+    {
+      "tag": "cardio1",
+      "section": "قلب وضغط ودهون",
+      "drugs": [
+        {
+          "id": "losartan",
+          "en": "Losartan",
+          "ar": "اللوسارتان"
+        },
+        {
+          "id": "bisoprolol",
+          "en": "Bisoprolol",
+          "ar": "البيسوبرولول"
+        },
+        {
+          "id": "verapamil",
+          "en": "Verapamil",
+          "ar": "الفيراباميل"
+        },
+        {
+          "id": "hydrochlorothiazide",
+          "en": "Hydrochlorothiazide",
+          "ar": "الهيدروكلوروثيازيد"
+        },
+        {
+          "id": "methyldopa",
+          "en": "Methyldopa",
+          "ar": "الميثيل دوبا"
+        },
+        {
+          "id": "hydralazine",
+          "en": "Hydralazine",
+          "ar": "الهيدرالازين"
+        },
+        {
+          "id": "nifedipine",
+          "en": "Nifedipine",
+          "ar": "النيفيديبين"
+        },
+        {
+          "id": "sodium-nitroprusside",
+          "en": "Sodium nitroprusside",
+          "ar": "نتروبروسيد الصوديوم"
+        },
+        {
+          "id": "lisinopril-amlodipine",
+          "en": "Lisinopril + amlodipine",
+          "ar": "الليزينوبريل مع الأملوديبين"
+        },
+        {
+          "id": "lisinopril-hydrochlorothiazide",
+          "en": "Lisinopril + hydrochlorothiazide",
+          "ar": "الليزينوبريل مع الهيدروكلوروثيازيد"
+        }
+      ]
+    },
+    {
+      "tag": "cardio2",
+      "section": "قلب وضغط ودهون",
+      "drugs": [
+        {
+          "id": "telmisartan-amlodipine",
+          "en": "Telmisartan + amlodipine",
+          "ar": "التلميسارتان مع الأملوديبين"
+        },
+        {
+          "id": "telmisartan-hydrochlorothiazide",
+          "en": "Telmisartan + hydrochlorothiazide",
+          "ar": "التلميسارتان مع الهيدروكلوروثيازيد"
+        },
+        {
+          "id": "perindopril-amlodipine-indapamide",
+          "en": "Perindopril + amlodipine + indapamide",
+          "ar": "البيريندوبريل مع الأملوديبين والإنداباميد"
+        },
+        {
+          "id": "valsartan-amlodipine-hydrochlorothiazide",
+          "en": "Valsartan + amlodipine + hydrochlorothiazide",
+          "ar": "الفالسارتان مع الأملوديبين والهيدروكلوروثيازيد"
+        },
+        {
+          "id": "glyceryl-trinitrate",
+          "en": "Glyceryl trinitrate",
+          "ar": "النيتروجليسرين"
+        },
+        {
+          "id": "isosorbide-dinitrate",
+          "en": "Isosorbide dinitrate",
+          "ar": "الإيزوسوربيد ثنائي النترات"
+        },
+        {
+          "id": "amiodarone",
+          "en": "Amiodarone",
+          "ar": "الأميودارون"
+        },
+        {
+          "id": "digoxin",
+          "en": "Digoxin",
+          "ar": "الديجوكسين"
+        },
+        {
+          "id": "dopamine",
+          "en": "Dopamine",
+          "ar": "الدوبامين"
+        },
+        {
+          "id": "furosemide",
+          "en": "Furosemide",
+          "ar": "الفوروسيميد"
+        }
+      ]
+    },
+    {
+      "tag": "cardio3",
+      "section": "قلب وضغط ودهون",
+      "drugs": [
+        {
+          "id": "spironolactone",
+          "en": "Spironolactone",
+          "ar": "السبيرونولاكتون"
+        },
+        {
+          "id": "amiloride",
+          "en": "Amiloride",
+          "ar": "الأميلوريد"
+        },
+        {
+          "id": "mannitol",
+          "en": "Mannitol",
+          "ar": "المانيتول"
+        },
+        {
+          "id": "clopidogrel",
+          "en": "Clopidogrel",
+          "ar": "الكلوبيدوجريل"
+        },
+        {
+          "id": "alteplase",
+          "en": "Alteplase",
+          "ar": "الألتيبليز"
+        },
+        {
+          "id": "streptokinase",
+          "en": "Streptokinase",
+          "ar": "الستربتوكيناز"
+        },
+        {
+          "id": "simvastatin",
+          "en": "Simvastatin",
+          "ar": "السيمفاستاتين"
+        },
+        {
+          "id": "acetylsalicylic-acid-atorvastatin-ramipril",
+          "en": "Acetylsalicylic acid + atorvastatin + ramipril",
+          "ar": "الأسبرين مع الأتورفاستاتين والراميبريل"
+        },
+        {
+          "id": "acetylsalicylic-acid-simvastatin-ramipril-atenolol-hydrochlorothiazide",
+          "en": "Acetylsalicylic acid + simvastatin + ramipril + atenolol + hydrochlorothiazide",
+          "ar": "الأسبرين مع السيمفاستاتين والراميبريل والأتينولول والهيدروكلوروثيازيد"
+        },
+        {
+          "id": "atorvastatin-perindopril-amlodipine",
+          "en": "Atorvastatin + perindopril + amlodipine",
+          "ar": "الأتورفاستاتين مع البيريندوبريل والأملوديبين"
+        }
+      ]
+    },
+    {
+      "tag": "endo1",
+      "section": "سكّري وغدد",
+      "drugs": [
+        {
+          "id": "metformin",
+          "en": "Metformin",
+          "ar": "الميتفورمين"
+        },
+        {
+          "id": "gliclazide",
+          "en": "Gliclazide",
+          "ar": "الجليكلازيد"
+        },
+        {
+          "id": "empagliflozin",
+          "en": "Empagliflozin",
+          "ar": "الإمباجليفلوزين"
+        },
+        {
+          "id": "semaglutide",
+          "en": "Semaglutide",
+          "ar": "السيماجلوتايد"
+        },
+        {
+          "id": "insulin-human-short-acting",
+          "en": "Insulin (human, short-acting)",
+          "ar": "الأنسولين البشري قصير المفعول"
+        },
+        {
+          "id": "insulin-human-intermediate-acting",
+          "en": "Insulin (human, intermediate-acting)",
+          "ar": "الأنسولين البشري متوسط المفعول"
+        },
+        {
+          "id": "insulin-analogue-rapid-acting",
+          "en": "Insulin (analogue, rapid-acting)",
+          "ar": "الأنسولين المماثل سريع المفعول"
+        },
+        {
+          "id": "insulin-analogue-long-acting",
+          "en": "Insulin (analogue, long-acting)",
+          "ar": "الأنسولين المماثل طويل المفعول"
+        },
+        {
+          "id": "glucagon",
+          "en": "Glucagon",
+          "ar": "الجلوكاجون"
+        },
+        {
+          "id": "diazoxide",
+          "en": "Diazoxide",
+          "ar": "الديازوكسيد"
+        }
+      ]
+    },
+    {
+      "tag": "endo2",
+      "section": "سكّري وغدد · فيتامينات ومعادن وتغذية",
+      "drugs": [
+        {
+          "id": "levothyroxine",
+          "en": "Levothyroxine",
+          "ar": "الليفوثيروكسين"
+        },
+        {
+          "id": "methimazole",
+          "en": "Methimazole",
+          "ar": "الميثيمازول"
+        },
+        {
+          "id": "propylthiouracil",
+          "en": "Propylthiouracil",
+          "ar": "البروبيل ثيويوراسيل"
+        },
+        {
+          "id": "potassium-iodide",
+          "en": "Potassium iodide",
+          "ar": "يوديد البوتاسيوم"
+        },
+        {
+          "id": "iodine-potassium-iodide",
+          "en": "Iodine + potassium iodide (Lugol's solution)",
+          "ar": "محلول لوجول (اليود مع يوديد البوتاسيوم)"
+        },
+        {
+          "id": "testosterone",
+          "en": "Testosterone",
+          "ar": "التستوستيرون"
+        },
+        {
+          "id": "cabergoline",
+          "en": "Cabergoline",
+          "ar": "الكابرجولين"
+        },
+        {
+          "id": "octreotide",
+          "en": "Octreotide",
+          "ar": "الأوكتريوتيد"
+        },
+        {
+          "id": "ascorbic-acid",
+          "en": "Ascorbic acid",
+          "ar": "فيتامين ج"
+        },
+        {
+          "id": "colecalciferol",
+          "en": "Colecalciferol",
+          "ar": "فيتامين د٣"
+        }
+      ]
+    },
+    {
+      "tag": "vit1",
+      "section": "فيتامينات ومعادن وتغذية",
+      "drugs": [
+        {
+          "id": "ergocalciferol",
+          "en": "Ergocalciferol",
+          "ar": "فيتامين د٢"
+        },
+        {
+          "id": "retinol",
+          "en": "Retinol",
+          "ar": "فيتامين أ"
+        },
+        {
+          "id": "thiamine",
+          "en": "Thiamine",
+          "ar": "فيتامين ب١"
+        },
+        {
+          "id": "riboflavin",
+          "en": "Riboflavin",
+          "ar": "فيتامين ب٢"
+        },
+        {
+          "id": "nicotinamide",
+          "en": "Nicotinamide",
+          "ar": "النياسيناميد"
+        },
+        {
+          "id": "pyridoxine",
+          "en": "Pyridoxine",
+          "ar": "فيتامين ب٦"
+        },
+        {
+          "id": "folic-acid",
+          "en": "Folic acid",
+          "ar": "حمض الفوليك"
+        },
+        {
+          "id": "calcium",
+          "en": "Calcium",
+          "ar": "الكالسيوم"
+        },
+        {
+          "id": "iodine",
+          "en": "Iodine",
+          "ar": "اليود"
+        },
+        {
+          "id": "multiple-micronutrient-powder",
+          "en": "Multiple micronutrient powder",
+          "ar": "مسحوق المغذّيات الدقيقة المتعدّدة"
+        }
+      ]
+    },
+    {
+      "tag": "vit2",
+      "section": "فيتامينات ومعادن وتغذية · صرع وأعصاب",
+      "drugs": [
+        {
+          "id": "multiple-micronutrient-supplement",
+          "en": "Multiple micronutrient supplement",
+          "ar": "مكمّل المغذّيات الدقيقة المتعدّدة"
+        },
+        {
+          "id": "ready-to-use-therapeutic-food",
+          "en": "Ready-to-use therapeutic food",
+          "ar": "الغذاء العلاجي الجاهز"
+        },
+        {
+          "id": "ferrous-salt",
+          "en": "Ferrous salt",
+          "ar": "أملاح الحديد"
+        },
+        {
+          "id": "ferrous-salt-folic-acid",
+          "en": "Ferrous salt + folic acid",
+          "ar": "الحديد مع حمض الفوليك"
+        },
+        {
+          "id": "hydroxocobalamin",
+          "en": "Hydroxocobalamin",
+          "ar": "الهيدروكسوكوبالامين"
+        },
+        {
+          "id": "erythropoiesis-stimulating-agents",
+          "en": "Erythropoiesis-stimulating agents",
+          "ar": "محفّزات تكوين كريات الدم الحمراء"
+        },
+        {
+          "id": "carbamazepine",
+          "en": "Carbamazepine",
+          "ar": "الكاربامازيبين"
+        },
+        {
+          "id": "valproic-acid",
+          "en": "Valproic acid (sodium valproate)",
+          "ar": "حمض الفالبرويك"
+        },
+        {
+          "id": "levetiracetam",
+          "en": "Levetiracetam",
+          "ar": "الليفيتيراسيتام"
+        },
+        {
+          "id": "lamotrigine",
+          "en": "Lamotrigine",
+          "ar": "اللاموتريجين"
+        }
+      ]
+    },
+    {
+      "tag": "neuro1",
+      "section": "صرع وأعصاب",
+      "drugs": [
+        {
+          "id": "phenytoin",
+          "en": "Phenytoin",
+          "ar": "الفينيتوين"
+        },
+        {
+          "id": "phenobarbital",
+          "en": "Phenobarbital",
+          "ar": "الفينوباربيتال"
+        },
+        {
+          "id": "ethosuximide",
+          "en": "Ethosuximide",
+          "ar": "الإيثوسكسيميد"
+        },
+        {
+          "id": "diazepam",
+          "en": "Diazepam",
+          "ar": "الديازيبام"
+        },
+        {
+          "id": "lorazepam",
+          "en": "Lorazepam",
+          "ar": "اللورازيبام"
+        },
+        {
+          "id": "midazolam",
+          "en": "Midazolam",
+          "ar": "الميدازولام"
+        },
+        {
+          "id": "magnesium-sulfate",
+          "en": "Magnesium sulfate",
+          "ar": "كبريتات المغنيسيوم"
+        },
+        {
+          "id": "levodopa-carbidopa",
+          "en": "Levodopa + carbidopa",
+          "ar": "الليفودوبا مع الكاربيدوبا"
+        },
+        {
+          "id": "biperiden",
+          "en": "Biperiden",
+          "ar": "البيبيريدين"
+        },
+        {
+          "id": "baclofen",
+          "en": "Baclofen",
+          "ar": "الباكلوفين"
+        }
+      ]
+    },
+    {
+      "tag": "neuro2",
+      "section": "صرع وأعصاب · نفسية وسلوكية",
+      "drugs": [
+        {
+          "id": "cladribine",
+          "en": "Cladribine",
+          "ar": "الكلادريبين"
+        },
+        {
+          "id": "glatiramer-acetate",
+          "en": "Glatiramer acetate",
+          "ar": "الجلاتيرامر"
+        },
+        {
+          "id": "neostigmine",
+          "en": "Neostigmine",
+          "ar": "النيوستيجمين"
+        },
+        {
+          "id": "pyridostigmine",
+          "en": "Pyridostigmine",
+          "ar": "البيريدوستيجمين"
+        },
+        {
+          "id": "amitriptyline",
+          "en": "Amitriptyline",
+          "ar": "الأميتريبتيلين"
+        },
+        {
+          "id": "fluoxetine",
+          "en": "Fluoxetine",
+          "ar": "الفلوكسيتين"
+        },
+        {
+          "id": "clomipramine",
+          "en": "Clomipramine",
+          "ar": "الكلوميبرامين"
+        },
+        {
+          "id": "haloperidol",
+          "en": "Haloperidol",
+          "ar": "الهالوبيريدول"
+        },
+        {
+          "id": "risperidone",
+          "en": "Risperidone",
+          "ar": "الريسبيريدون"
+        },
+        {
+          "id": "olanzapine",
+          "en": "Olanzapine",
+          "ar": "الأولانزابين"
+        }
+      ]
+    },
+    {
+      "tag": "psych1",
+      "section": "نفسية وسلوكية",
+      "drugs": [
+        {
+          "id": "quetiapine",
+          "en": "Quetiapine",
+          "ar": "الكويتيابين"
+        },
+        {
+          "id": "paliperidone",
+          "en": "Paliperidone",
+          "ar": "الباليبيريدون"
+        },
+        {
+          "id": "clozapine",
+          "en": "Clozapine",
+          "ar": "الكلوزابين"
+        },
+        {
+          "id": "fluphenazine",
+          "en": "Fluphenazine",
+          "ar": "الفلوفينازين"
+        },
+        {
+          "id": "lithium-carbonate",
+          "en": "Lithium carbonate",
+          "ar": "كربونات الليثيوم"
+        },
+        {
+          "id": "acamprosate-calcium",
+          "en": "Acamprosate calcium",
+          "ar": "الأكامبروسات"
+        },
+        {
+          "id": "naltrexone",
+          "en": "Naltrexone",
+          "ar": "النالتريكسون"
+        },
+        {
+          "id": "bupropion",
+          "en": "Bupropion",
+          "ar": "البوبروبيون"
+        },
+        {
+          "id": "varenicline",
+          "en": "Varenicline",
+          "ar": "الفارينيكلين"
+        },
+        {
+          "id": "cytisine",
+          "en": "Cytisine (cytisinicline)",
+          "ar": "السيتيزين"
+        }
+      ]
+    },
+    {
+      "tag": "psych2",
+      "section": "نفسية وسلوكية · عيون",
+      "drugs": [
+        {
+          "id": "nicotine-replacement-therapy",
+          "en": "Nicotine replacement therapy (NRT)",
+          "ar": "بدائل النيكوتين"
+        },
+        {
+          "id": "timolol",
+          "en": "Timolol",
+          "ar": "التيمولول"
+        },
+        {
+          "id": "latanoprost",
+          "en": "Latanoprost",
+          "ar": "اللاتانوبروست"
+        },
+        {
+          "id": "pilocarpine",
+          "en": "Pilocarpine",
+          "ar": "البيلوكاربين"
+        },
+        {
+          "id": "acetazolamide",
+          "en": "Acetazolamide",
+          "ar": "الأسيتازولاميد"
+        },
+        {
+          "id": "tetracaine",
+          "en": "Tetracaine",
+          "ar": "التتراكايين"
+        },
+        {
+          "id": "tropicamide",
+          "en": "Tropicamide",
+          "ar": "التروبيكاميد"
+        },
+        {
+          "id": "fluorescein",
+          "en": "Fluorescein",
+          "ar": "الفلوريسين"
+        },
+        {
+          "id": "natamycin",
+          "en": "Natamycin",
+          "ar": "الناتاميسين"
+        },
+        {
+          "id": "tetracycline",
+          "en": "Tetracycline",
+          "ar": "التتراسيكلين"
+        }
+      ]
+    },
+    {
+      "tag": "eye1",
+      "section": "عيون · صحة إنجابية وحمل وولادة",
+      "drugs": [
+        {
+          "id": "ofloxacin",
+          "en": "Ofloxacin",
+          "ar": "الأوفلوكساسين"
+        },
+        {
+          "id": "erythromycin",
+          "en": "Erythromycin",
+          "ar": "الإريثرومايسين"
+        },
+        {
+          "id": "bevacizumab",
+          "en": "Bevacizumab",
+          "ar": "البيفاسيزوماب"
+        },
+        {
+          "id": "levonorgestrel",
+          "en": "Levonorgestrel",
+          "ar": "الليفونورجستريل"
+        },
+        {
+          "id": "ethinylestradiol-levonorgestrel",
+          "en": "Ethinylestradiol + levonorgestrel",
+          "ar": "الإيثينيل إستراديول مع الليفونورجستريل"
+        },
+        {
+          "id": "ethinylestradiol-norethisterone",
+          "en": "Ethinylestradiol + norethisterone",
+          "ar": "الإيثينيل إستراديول مع النوريثيستيرون"
+        },
+        {
+          "id": "ethinylestradiol-etonogestrel",
+          "en": "Ethinylestradiol + etonogestrel",
+          "ar": "الإيثينيل إستراديول مع الإيتونوجستريل"
+        },
+        {
+          "id": "ulipristal",
+          "en": "Ulipristal",
+          "ar": "اليوليبريستال"
+        },
+        {
+          "id": "medroxyprogesterone-acetate",
+          "en": "Medroxyprogesterone acetate",
+          "ar": "الميدروكسي بروجستيرون"
+        },
+        {
+          "id": "estradiol-cypionate-medroxyprogesterone-acetate",
+          "en": "Estradiol cypionate + medroxyprogesterone acetate",
+          "ar": "الإستراديول سيبيونات مع الميدروكسي بروجستيرون"
+        }
+      ]
+    },
+    {
+      "tag": "repro1",
+      "section": "صحة إنجابية وحمل وولادة",
+      "drugs": [
+        {
+          "id": "norethisterone-enantate",
+          "en": "Norethisterone enantate",
+          "ar": "النوريثيستيرون إينانتات"
+        },
+        {
+          "id": "levonorgestrel-releasing-implant",
+          "en": "Levonorgestrel-releasing implant",
+          "ar": "شريحة الليفونورجستريل"
+        },
+        {
+          "id": "etonogestrel-releasing-implant",
+          "en": "Etonogestrel-releasing implant",
+          "ar": "شريحة الإيتونوجستريل"
+        },
+        {
+          "id": "levonorgestrel-releasing-intrauterine-system",
+          "en": "Levonorgestrel-releasing intrauterine system",
+          "ar": "اللولب الهرموني (ليفونورجستريل)"
+        },
+        {
+          "id": "copper-containing-device",
+          "en": "Copper-containing device",
+          "ar": "اللولب النحاسي"
+        },
+        {
+          "id": "condoms",
+          "en": "Condoms",
+          "ar": "الواقي الذكري"
+        },
+        {
+          "id": "diaphragms",
+          "en": "Diaphragms",
+          "ar": "العازل المهبلي"
+        },
+        {
+          "id": "progesterone-vaginal-ring",
+          "en": "Progesterone vaginal ring",
+          "ar": "حلقة البروجستيرون المهبلية"
+        },
+        {
+          "id": "clomifene",
+          "en": "Clomifene",
+          "ar": "الكلوميفين"
+        },
+        {
+          "id": "letrozole",
+          "en": "Letrozole",
+          "ar": "الليتروزول"
+        }
+      ]
+    },
+    {
+      "tag": "repro2",
+      "section": "صحة إنجابية وحمل وولادة · طفيليات وديدان وملاريا",
+      "drugs": [
+        {
+          "id": "oxytocin",
+          "en": "Oxytocin",
+          "ar": "الأوكسيتوسين"
+        },
+        {
+          "id": "carbetocin",
+          "en": "Carbetocin",
+          "ar": "الكاربيتوسين"
+        },
+        {
+          "id": "ergometrine",
+          "en": "Ergometrine",
+          "ar": "الإرجومترين"
+        },
+        {
+          "id": "misoprostol",
+          "en": "Misoprostol",
+          "ar": "الميزوبروستول"
+        },
+        {
+          "id": "mifepristone-misoprostol",
+          "en": "Mifepristone – misoprostol",
+          "ar": "الميفيبريستون مع الميزوبروستول"
+        },
+        {
+          "id": "alprostadil",
+          "en": "Alprostadil (prostaglandin E1)",
+          "ar": "الألبروستاديل"
+        },
+        {
+          "id": "beractant",
+          "en": "Beractant",
+          "ar": "البيراكتانت"
+        },
+        {
+          "id": "poractant-alfa",
+          "en": "Poractant alfa",
+          "ar": "البوراكتانت ألفا"
+        },
+        {
+          "id": "caffeine-citrate",
+          "en": "Caffeine citrate",
+          "ar": "سيترات الكافيين"
+        },
+        {
+          "id": "albendazole",
+          "en": "Albendazole",
+          "ar": "الألبيندازول"
+        }
+      ]
+    },
+    {
+      "tag": "para1",
+      "section": "طفيليات وديدان وملاريا",
+      "drugs": [
+        {
+          "id": "mebendazole",
+          "en": "Mebendazole",
+          "ar": "الميبيندازول"
+        },
+        {
+          "id": "ivermectin",
+          "en": "Ivermectin",
+          "ar": "الآيفرمكتين"
+        },
+        {
+          "id": "praziquantel",
+          "en": "Praziquantel",
+          "ar": "البرازيكوانتيل"
+        },
+        {
+          "id": "pyrantel",
+          "en": "Pyrantel",
+          "ar": "البيرانتيل"
+        },
+        {
+          "id": "levamisole",
+          "en": "Levamisole",
+          "ar": "الليفاميزول"
+        },
+        {
+          "id": "niclosamide",
+          "en": "Niclosamide",
+          "ar": "النيكلوزاميد"
+        },
+        {
+          "id": "diethylcarbamazine",
+          "en": "Diethylcarbamazine",
+          "ar": "ثنائي إيثيل كاربامازين"
+        },
+        {
+          "id": "oxamniquine",
+          "en": "Oxamniquine",
+          "ar": "الأوكسامنيكين"
+        },
+        {
+          "id": "triclabendazole",
+          "en": "Triclabendazole",
+          "ar": "التريكلابيندازول"
+        },
+        {
+          "id": "diloxanide",
+          "en": "Diloxanide",
+          "ar": "الديلوكسانيد"
+        }
+      ]
+    },
+    {
+      "tag": "para2",
+      "section": "طفيليات وديدان وملاريا",
+      "drugs": [
+        {
+          "id": "paromomycin",
+          "en": "Paromomycin",
+          "ar": "الباروموميسين"
+        },
+        {
+          "id": "miltefosine",
+          "en": "Miltefosine",
+          "ar": "الميلتيفوسين"
+        },
+        {
+          "id": "meglumine-antimoniate",
+          "en": "Meglumine antimoniate",
+          "ar": "أنتيمونات الميجلومين"
+        },
+        {
+          "id": "sodium-stibogluconate",
+          "en": "Sodium stibogluconate",
+          "ar": "ستيبوجلوكونات الصوديوم"
+        },
+        {
+          "id": "artemether",
+          "en": "Artemether",
+          "ar": "الأرتيميثر"
+        },
+        {
+          "id": "artemether-lumefantrine",
+          "en": "Artemether + lumefantrine",
+          "ar": "الأرتيميثر مع اللوميفانترين"
+        },
+        {
+          "id": "artesunate",
+          "en": "Artesunate",
+          "ar": "الأرتيسونات"
+        },
+        {
+          "id": "artesunate-amodiaquine",
+          "en": "Artesunate + amodiaquine",
+          "ar": "الأرتيسونات مع الأمودياكين"
+        },
+        {
+          "id": "artesunate-mefloquine",
+          "en": "Artesunate + mefloquine",
+          "ar": "الأرتيسونات مع الميفلوكين"
+        },
+        {
+          "id": "artesunate-pyronaridine",
+          "en": "Artesunate + pyronaridine",
+          "ar": "الأرتيسونات مع البيروناريدين"
+        }
+      ]
+    },
+    {
+      "tag": "para3",
+      "section": "طفيليات وديدان وملاريا",
+      "drugs": [
+        {
+          "id": "artesunate-sulfadoxine-pyrimethamine",
+          "en": "Artesunate – sulfadoxine + pyrimethamine",
+          "ar": "الأرتيسونات مع السلفادوكسين والبيريميثامين"
+        },
+        {
+          "id": "amodiaquine-sulfadoxine-pyrimethamine",
+          "en": "Amodiaquine – sulfadoxine + pyrimethamine",
+          "ar": "الأمودياكين مع السلفادوكسين والبيريميثامين"
+        },
+        {
+          "id": "sulfadoxine-pyrimethamine",
+          "en": "Sulfadoxine + pyrimethamine",
+          "ar": "السلفادوكسين مع البيريميثامين"
+        },
+        {
+          "id": "dihydroartemisinin-piperaquine",
+          "en": "Dihydroartemisinin + piperaquine",
+          "ar": "ثنائي هيدروأرتيميسينين مع البيبيراكين"
+        },
+        {
+          "id": "chloroquine",
+          "en": "Chloroquine",
+          "ar": "الكلوروكين"
+        },
+        {
+          "id": "primaquine",
+          "en": "Primaquine",
+          "ar": "البريماكين"
+        },
+        {
+          "id": "quinine",
+          "en": "Quinine",
+          "ar": "الكينين"
+        },
+        {
+          "id": "mefloquine",
+          "en": "Mefloquine",
+          "ar": "الميفلوكين"
+        },
+        {
+          "id": "pyrimethamine",
+          "en": "Pyrimethamine",
+          "ar": "البيريميثامين"
+        },
+        {
+          "id": "sulfadiazine",
+          "en": "Sulfadiazine",
+          "ar": "السلفاديازين"
+        }
+      ]
+    },
+    {
+      "tag": "para4",
+      "section": "طفيليات وديدان وملاريا · مضادات الفيروسات والإيدز والكبد",
+      "drugs": [
+        {
+          "id": "pentamidine",
+          "en": "Pentamidine",
+          "ar": "البنتاميدين"
+        },
+        {
+          "id": "eflornithine",
+          "en": "Eflornithine",
+          "ar": "الإفلورنيثين"
+        },
+        {
+          "id": "fexinidazole",
+          "en": "Fexinidazole",
+          "ar": "الفيكسينيدازول"
+        },
+        {
+          "id": "melarsoprol",
+          "en": "Melarsoprol",
+          "ar": "الميلارسوبرول"
+        },
+        {
+          "id": "nifurtimox",
+          "en": "Nifurtimox",
+          "ar": "النيفورتيموكس"
+        },
+        {
+          "id": "suramin-sodium",
+          "en": "Suramin sodium",
+          "ar": "السورامين"
+        },
+        {
+          "id": "benznidazole",
+          "en": "Benznidazole",
+          "ar": "البنزنيدازول"
+        },
+        {
+          "id": "aciclovir",
+          "en": "Aciclovir",
+          "ar": "الأسيكلوفير"
+        },
+        {
+          "id": "oseltamivir",
+          "en": "Oseltamivir",
+          "ar": "الأوسيلتاميفير"
+        },
+        {
+          "id": "valganciclovir",
+          "en": "Valganciclovir",
+          "ar": "الفالجانسيكلوفير"
+        }
+      ]
+    },
+    {
+      "tag": "viral1",
+      "section": "مضادات الفيروسات والإيدز والكبد",
+      "drugs": [
+        {
+          "id": "ribavirin",
+          "en": "Ribavirin",
+          "ar": "الريبافيرين"
+        },
+        {
+          "id": "entecavir",
+          "en": "Entecavir",
+          "ar": "الإنتيكافير"
+        },
+        {
+          "id": "tenofovir-disoproxil-fumarate",
+          "en": "Tenofovir disoproxil fumarate",
+          "ar": "التينوفوفير"
+        },
+        {
+          "id": "lamivudine",
+          "en": "Lamivudine",
+          "ar": "اللاميفودين"
+        },
+        {
+          "id": "zidovudine",
+          "en": "Zidovudine",
+          "ar": "الزيدوفودين"
+        },
+        {
+          "id": "abacavir",
+          "en": "Abacavir",
+          "ar": "الأباكافير"
+        },
+        {
+          "id": "efavirenz",
+          "en": "Efavirenz",
+          "ar": "الإيفافيرينز"
+        },
+        {
+          "id": "nevirapine",
+          "en": "Nevirapine",
+          "ar": "النيفيرابين"
+        },
+        {
+          "id": "ritonavir",
+          "en": "Ritonavir",
+          "ar": "الريتونافير"
+        },
+        {
+          "id": "darunavir",
+          "en": "Darunavir",
+          "ar": "الدارونافير"
+        }
+      ]
+    },
+    {
+      "tag": "viral2",
+      "section": "مضادات الفيروسات والإيدز والكبد",
+      "drugs": [
+        {
+          "id": "atazanavir-ritonavir",
+          "en": "Atazanavir + ritonavir",
+          "ar": "الأتازانافير مع الريتونافير"
+        },
+        {
+          "id": "lopinavir-ritonavir",
+          "en": "Lopinavir + ritonavir",
+          "ar": "اللوبينافير مع الريتونافير"
+        },
+        {
+          "id": "dolutegravir",
+          "en": "Dolutegravir",
+          "ar": "الدولوتيجرافير"
+        },
+        {
+          "id": "raltegravir",
+          "en": "Raltegravir",
+          "ar": "الرالتيجرافير"
+        },
+        {
+          "id": "abacavir-lamivudine",
+          "en": "Abacavir + lamivudine",
+          "ar": "الأباكافير مع اللاميفودين"
+        },
+        {
+          "id": "abacavir-dolutegravir-lamivudine",
+          "en": "Abacavir + dolutegravir + lamivudine",
+          "ar": "الأباكافير مع الدولوتيجرافير واللاميفودين"
+        },
+        {
+          "id": "dolutegravir-lamivudine-tenofovir",
+          "en": "Dolutegravir + lamivudine + tenofovir",
+          "ar": "الدولوتيجرافير مع اللاميفودين والتينوفوفير"
+        },
+        {
+          "id": "efavirenz-lamivudine-tenofovir",
+          "en": "Efavirenz + lamivudine + tenofovir",
+          "ar": "الإيفافيرينز مع اللاميفودين والتينوفوفير"
+        },
+        {
+          "id": "efavirenz-emtricitabine-tenofovir",
+          "en": "Efavirenz + emtricitabine + tenofovir",
+          "ar": "الإيفافيرينز مع الإمتريسيتابين والتينوفوفير"
+        },
+        {
+          "id": "emtricitabine-tenofovir",
+          "en": "Emtricitabine + tenofovir",
+          "ar": "الإمتريسيتابين مع التينوفوفير"
+        }
+      ]
+    },
+    {
+      "tag": "viral3",
+      "section": "مضادات الفيروسات والإيدز والكبد",
+      "drugs": [
+        {
+          "id": "lamivudine-zidovudine",
+          "en": "Lamivudine + zidovudine",
+          "ar": "اللاميفودين مع الزيدوفودين"
+        },
+        {
+          "id": "isoniazid-pyridoxine-sulfamethoxazole-trimethoprim",
+          "en": "Isoniazid + pyridoxine + sulfamethoxazole + trimethoprim",
+          "ar": "الأيزونيازيد مع فيتامين ب٦ والكوتريموكسازول"
+        },
+        {
+          "id": "sofosbuvir",
+          "en": "Sofosbuvir",
+          "ar": "السوفوسبوفير"
+        },
+        {
+          "id": "sofosbuvir-velpatasvir",
+          "en": "Sofosbuvir + velpatasvir",
+          "ar": "السوفوسبوفير مع الفيلباتاسفير"
+        },
+        {
+          "id": "daclatasvir",
+          "en": "Daclatasvir",
+          "ar": "الداكلاتاسفير"
+        },
+        {
+          "id": "daclatasvir-sofosbuvir",
+          "en": "Daclatasvir + sofosbuvir",
+          "ar": "الداكلاتاسفير مع السوفوسبوفير"
+        },
+        {
+          "id": "ledipasvir-sofosbuvir",
+          "en": "Ledipasvir + sofosbuvir",
+          "ar": "الليديباسفير مع السوفوسبوفير"
+        },
+        {
+          "id": "glecaprevir-pibrentasvir",
+          "en": "Glecaprevir + pibrentasvir",
+          "ar": "الجليكابريفير مع البيبرينتاسفير"
+        },
+        {
+          "id": "ravidasvir",
+          "en": "Ravidasvir",
+          "ar": "الرافيداسفير"
+        },
+        {
+          "id": "ansuvimab",
+          "en": "Ansuvimab",
+          "ar": "الأنسوفيماب"
+        }
+      ]
+    },
+    {
+      "tag": "viral4",
+      "section": "مضادات الفيروسات والإيدز والكبد · سلّ وجذام",
+      "drugs": [
+        {
+          "id": "atoltivimab-maftivimab-odesivimab",
+          "en": "Atoltivimab + maftivimab + odesivimab",
+          "ar": "الأتولتيفيماب مع المافتيفيماب والأوديسيفيماب"
+        },
+        {
+          "id": "isoniazid",
+          "en": "Isoniazid",
+          "ar": "الأيزونيازيد"
+        },
+        {
+          "id": "rifampicin",
+          "en": "Rifampicin",
+          "ar": "الريفامبيسين"
+        },
+        {
+          "id": "pyrazinamide",
+          "en": "Pyrazinamide",
+          "ar": "البيرازيناميد"
+        },
+        {
+          "id": "ethambutol",
+          "en": "Ethambutol",
+          "ar": "الإيثامبوتول"
+        },
+        {
+          "id": "isoniazid-rifampicin",
+          "en": "Isoniazid + rifampicin",
+          "ar": "الأيزونيازيد مع الريفامبيسين"
+        },
+        {
+          "id": "isoniazid-pyrazinamide-rifampicin",
+          "en": "Isoniazid + pyrazinamide + rifampicin",
+          "ar": "الأيزونيازيد مع البيرازيناميد والريفامبيسين"
+        },
+        {
+          "id": "ethambutol-isoniazid-rifampicin",
+          "en": "Ethambutol + isoniazid + rifampicin",
+          "ar": "الإيثامبوتول مع الأيزونيازيد والريفامبيسين"
+        },
+        {
+          "id": "ethambutol-isoniazid-pyrazinamide-rifampicin",
+          "en": "Ethambutol + isoniazid + pyrazinamide + rifampicin",
+          "ar": "الإيثامبوتول مع الأيزونيازيد والبيرازيناميد والريفامبيسين"
+        },
+        {
+          "id": "isoniazid-rifapentine",
+          "en": "Isoniazid + rifapentine",
+          "ar": "الأيزونيازيد مع الريفابنتين"
+        }
+      ]
+    },
+    {
+      "tag": "tb1",
+      "section": "سلّ وجذام",
+      "drugs": [
+        {
+          "id": "rifapentine",
+          "en": "Rifapentine",
+          "ar": "الريفابنتين"
+        },
+        {
+          "id": "rifabutin",
+          "en": "Rifabutin",
+          "ar": "الريفابوتين"
+        },
+        {
+          "id": "bedaquiline",
+          "en": "Bedaquiline",
+          "ar": "البيداكويلين"
+        },
+        {
+          "id": "delamanid",
+          "en": "Delamanid",
+          "ar": "الديلامانيد"
+        },
+        {
+          "id": "pretomanid",
+          "en": "Pretomanid",
+          "ar": "البريتومانيد"
+        },
+        {
+          "id": "cycloserine",
+          "en": "Cycloserine",
+          "ar": "السيكلوسيرين"
+        },
+        {
+          "id": "ethionamide",
+          "en": "Ethionamide",
+          "ar": "الإيثيوناميد"
+        },
+        {
+          "id": "p-aminosalicylate-sodium",
+          "en": "P-aminosalicylate sodium",
+          "ar": "حمض بارا أمينوساليسيليك"
+        },
+        {
+          "id": "streptomycin",
+          "en": "Streptomycin",
+          "ar": "الستربتومايسين"
+        },
+        {
+          "id": "levofloxacin",
+          "en": "Levofloxacin",
+          "ar": "الليفوفلوكساسين"
+        }
+      ]
+    },
+    {
+      "tag": "tb2",
+      "section": "سلّ وجذام · دم وتخثّر ومشتقّات الدم",
+      "drugs": [
+        {
+          "id": "moxifloxacin",
+          "en": "Moxifloxacin",
+          "ar": "الموكسيفلوكساسين"
+        },
+        {
+          "id": "clofazimine",
+          "en": "Clofazimine",
+          "ar": "الكلوفازيمين"
+        },
+        {
+          "id": "dapsone",
+          "en": "Dapsone",
+          "ar": "الدابسون"
+        },
+        {
+          "id": "warfarin",
+          "en": "Warfarin",
+          "ar": "الوارفارين"
+        },
+        {
+          "id": "dabigatran",
+          "en": "Dabigatran",
+          "ar": "الدابيجاتران"
+        },
+        {
+          "id": "enoxaparin",
+          "en": "Enoxaparin",
+          "ar": "الإينوكسابارين"
+        },
+        {
+          "id": "heparin-sodium",
+          "en": "Heparin sodium",
+          "ar": "الهيبارين"
+        },
+        {
+          "id": "protamine-sulfate",
+          "en": "Protamine sulfate",
+          "ar": "البروتامين"
+        },
+        {
+          "id": "phytomenadione",
+          "en": "Phytomenadione",
+          "ar": "فيتامين ك١"
+        },
+        {
+          "id": "tranexamic-acid",
+          "en": "Tranexamic acid",
+          "ar": "حمض الترانيكساميك"
+        }
+      ]
+    },
+    {
+      "tag": "blood1",
+      "section": "دم وتخثّر ومشتقّات الدم",
+      "drugs": [
+        {
+          "id": "desmopressin",
+          "en": "Desmopressin",
+          "ar": "الديزموبريسين"
+        },
+        {
+          "id": "emicizumab",
+          "en": "Emicizumab",
+          "ar": "الإيميسيزوماب"
+        },
+        {
+          "id": "deferasirox",
+          "en": "Deferasirox",
+          "ar": "الديفيراسيروكس"
+        },
+        {
+          "id": "deferoxamine",
+          "en": "Deferoxamine",
+          "ar": "الديفيروكسامين"
+        },
+        {
+          "id": "whole-blood",
+          "en": "Whole blood",
+          "ar": "الدم الكامل"
+        },
+        {
+          "id": "red-blood-cells",
+          "en": "Red blood cells",
+          "ar": "كريات الدم الحمراء"
+        },
+        {
+          "id": "platelets",
+          "en": "Platelets",
+          "ar": "الصفائح الدموية"
+        },
+        {
+          "id": "fresh-frozen-plasma",
+          "en": "Fresh-frozen plasma",
+          "ar": "البلازما الطازجة المجمّدة"
+        },
+        {
+          "id": "cryoprecipitate",
+          "en": "Cryoprecipitate, pathogen-reduced",
+          "ar": "الراسب القري منخفض الممرضات"
+        },
+        {
+          "id": "normal-immunoglobulin",
+          "en": "Normal immunoglobulin",
+          "ar": "الغلوبولين المناعي الطبيعي"
+        }
+      ]
+    },
+    {
+      "tag": "blood2",
+      "section": "دم وتخثّر ومشتقّات الدم · مناعة ومفاصل وروماتيزم",
+      "drugs": [
+        {
+          "id": "anti-d-immunoglobulin",
+          "en": "Anti-D immunoglobulin",
+          "ar": "الغلوبولين المناعي المضاد لـD"
+        },
+        {
+          "id": "anti-rabies-immunoglobulin",
+          "en": "Anti-rabies immunoglobulin",
+          "ar": "الغلوبولين المناعي المضاد للسعار"
+        },
+        {
+          "id": "anti-tetanus-immunoglobulin",
+          "en": "Anti-tetanus immunoglobulin",
+          "ar": "الغلوبولين المناعي المضاد للكزاز"
+        },
+        {
+          "id": "coagulation-factor-viii-plasma-derived",
+          "en": "Coagulation factor VIII, plasma-derived",
+          "ar": "عامل التخثّر الثامن المستخلص من البلازما"
+        },
+        {
+          "id": "coagulation-factor-viii-recombinant",
+          "en": "Coagulation factor VIII, recombinant",
+          "ar": "عامل التخثّر الثامن المؤتلف"
+        },
+        {
+          "id": "coagulation-factor-ix-plasma-derived",
+          "en": "Coagulation factor IX, plasma-derived",
+          "ar": "عامل التخثّر التاسع المستخلص من البلازما"
+        },
+        {
+          "id": "coagulation-factor-ix-recombinant",
+          "en": "Coagulation factor IX, recombinant",
+          "ar": "عامل التخثّر التاسع المؤتلف"
+        },
+        {
+          "id": "dextran-70",
+          "en": "Dextran 70",
+          "ar": "الديكستران ٧٠"
+        },
+        {
+          "id": "adalimumab",
+          "en": "Adalimumab",
+          "ar": "الأداليموماب"
+        },
+        {
+          "id": "azathioprine",
+          "en": "Azathioprine",
+          "ar": "الأزاثيوبرين"
+        }
+      ]
+    },
+    {
+      "tag": "immuno1",
+      "section": "مناعة ومفاصل وروماتيزم · أورام وعلاج كيماوي",
+      "drugs": [
+        {
+          "id": "ciclosporin",
+          "en": "Ciclosporin",
+          "ar": "السيكلوسبورين"
+        },
+        {
+          "id": "tacrolimus",
+          "en": "Tacrolimus",
+          "ar": "التاكروليموس"
+        },
+        {
+          "id": "methotrexate",
+          "en": "Methotrexate",
+          "ar": "الميثوتريكسيت"
+        },
+        {
+          "id": "hydroxychloroquine",
+          "en": "Hydroxychloroquine",
+          "ar": "الهيدروكسي كلوروكين"
+        },
+        {
+          "id": "penicillamine",
+          "en": "Penicillamine",
+          "ar": "البنيسيلامين"
+        },
+        {
+          "id": "allopurinol",
+          "en": "Allopurinol",
+          "ar": "الألوبيورينول"
+        },
+        {
+          "id": "triamcinolone-hexacetonide",
+          "en": "Triamcinolone hexacetonide",
+          "ar": "التريامسينولون هيكساسيتونيد"
+        },
+        {
+          "id": "cyclophosphamide",
+          "en": "Cyclophosphamide",
+          "ar": "السيكلوفوسفاميد"
+        },
+        {
+          "id": "ifosfamide",
+          "en": "Ifosfamide",
+          "ar": "الإيفوسفاميد"
+        },
+        {
+          "id": "chlorambucil",
+          "en": "Chlorambucil",
+          "ar": "الكلورامبيوسيل"
+        }
+      ]
+    },
+    {
+      "tag": "onco1",
+      "section": "أورام وعلاج كيماوي",
+      "drugs": [
+        {
+          "id": "melphalan",
+          "en": "Melphalan",
+          "ar": "الميلفالان"
+        },
+        {
+          "id": "bendamustine",
+          "en": "Bendamustine",
+          "ar": "البيندامستين"
+        },
+        {
+          "id": "dacarbazine",
+          "en": "Dacarbazine",
+          "ar": "الداكاربازين"
+        },
+        {
+          "id": "procarbazine",
+          "en": "Procarbazine",
+          "ar": "البروكاربازين"
+        },
+        {
+          "id": "cisplatin",
+          "en": "Cisplatin",
+          "ar": "السيسبلاتين"
+        },
+        {
+          "id": "carboplatin",
+          "en": "Carboplatin",
+          "ar": "الكاربوبلاتين"
+        },
+        {
+          "id": "oxaliplatin",
+          "en": "Oxaliplatin",
+          "ar": "الأوكزاليبلاتين"
+        },
+        {
+          "id": "fluorouracil",
+          "en": "Fluorouracil",
+          "ar": "الفلورويوراسيل"
+        },
+        {
+          "id": "capecitabine",
+          "en": "Capecitabine",
+          "ar": "الكابيسيتابين"
+        },
+        {
+          "id": "cytarabine",
+          "en": "Cytarabine",
+          "ar": "السيتارابين"
+        }
+      ]
+    },
+    {
+      "tag": "onco2",
+      "section": "أورام وعلاج كيماوي",
+      "drugs": [
+        {
+          "id": "gemcitabine",
+          "en": "Gemcitabine",
+          "ar": "الجيمسيتابين"
+        },
+        {
+          "id": "fludarabine",
+          "en": "Fludarabine",
+          "ar": "الفلودارابين"
+        },
+        {
+          "id": "mercaptopurine",
+          "en": "Mercaptopurine",
+          "ar": "الميركابتوبيورين"
+        },
+        {
+          "id": "tioguanine",
+          "en": "Tioguanine",
+          "ar": "التيوجوانين"
+        },
+        {
+          "id": "hydroxyurea",
+          "en": "Hydroxyurea (hydroxycarbamide)",
+          "ar": "الهيدروكسي يوريا"
+        },
+        {
+          "id": "calcium-folinate",
+          "en": "Calcium folinate (leucovorin calcium)",
+          "ar": "فولينات الكالسيوم"
+        },
+        {
+          "id": "doxorubicin",
+          "en": "Doxorubicin",
+          "ar": "الدوكسوروبيسين"
+        },
+        {
+          "id": "doxorubicin-liposomal",
+          "en": "Doxorubicin (as pegylated liposomal)",
+          "ar": "الدوكسوروبيسين الشحمي المبغدد"
+        },
+        {
+          "id": "daunorubicin",
+          "en": "Daunorubicin",
+          "ar": "الدونوروبيسين"
+        },
+        {
+          "id": "bleomycin",
+          "en": "Bleomycin",
+          "ar": "البليومايسين"
+        }
+      ]
+    },
+    {
+      "tag": "onco3",
+      "section": "أورام وعلاج كيماوي",
+      "drugs": [
+        {
+          "id": "dactinomycin",
+          "en": "Dactinomycin",
+          "ar": "الداكتينومايسين"
+        },
+        {
+          "id": "etoposide",
+          "en": "Etoposide",
+          "ar": "الإيتوبوسيد"
+        },
+        {
+          "id": "irinotecan",
+          "en": "Irinotecan",
+          "ar": "الإرينوتيكان"
+        },
+        {
+          "id": "paclitaxel",
+          "en": "Paclitaxel",
+          "ar": "الباكليتاكسيل"
+        },
+        {
+          "id": "docetaxel",
+          "en": "Docetaxel",
+          "ar": "الدوسيتاكسيل"
+        },
+        {
+          "id": "vinblastine",
+          "en": "Vinblastine",
+          "ar": "الفينبلاستين"
+        },
+        {
+          "id": "vincristine",
+          "en": "Vincristine",
+          "ar": "الفينكريستين"
+        },
+        {
+          "id": "vinorelbine",
+          "en": "Vinorelbine",
+          "ar": "الفينوريلبين"
+        },
+        {
+          "id": "asparaginase",
+          "en": "Asparaginase",
+          "ar": "الأسباراجيناز"
+        },
+        {
+          "id": "pegaspargase",
+          "en": "Pegaspargase",
+          "ar": "البيج أسبارجيناز"
+        }
+      ]
+    },
+    {
+      "tag": "onco4",
+      "section": "أورام وعلاج كيماوي",
+      "drugs": [
+        {
+          "id": "arsenic-trioxide",
+          "en": "Arsenic trioxide",
+          "ar": "ثالث أكسيد الزرنيخ"
+        },
+        {
+          "id": "realgar-indigo-naturalis",
+          "en": "Realgar-Indigo naturalis formulation",
+          "ar": "تركيبة الريلجار والنيلة الطبيعية"
+        },
+        {
+          "id": "all-trans-retinoic-acid",
+          "en": "All-trans retinoid acid (ATRA)",
+          "ar": "حمض الريتينويك كامل الترانس"
+        },
+        {
+          "id": "imatinib",
+          "en": "Imatinib",
+          "ar": "الإيماتينيب"
+        },
+        {
+          "id": "dasatinib",
+          "en": "Dasatinib",
+          "ar": "الداساتينيب"
+        },
+        {
+          "id": "nilotinib",
+          "en": "Nilotinib",
+          "ar": "النيلوتينيب"
+        },
+        {
+          "id": "erlotinib",
+          "en": "Erlotinib",
+          "ar": "الإرلوتينيب"
+        },
+        {
+          "id": "ibrutinib",
+          "en": "Ibrutinib",
+          "ar": "الإيبروتينيب"
+        },
+        {
+          "id": "everolimus",
+          "en": "Everolimus",
+          "ar": "الإيفيروليموس"
+        },
+        {
+          "id": "bortezomib",
+          "en": "Bortezomib",
+          "ar": "البورتيزوميب"
+        }
+      ]
+    },
+    {
+      "tag": "onco5",
+      "section": "أورام وعلاج كيماوي",
+      "drugs": [
+        {
+          "id": "trastuzumab",
+          "en": "Trastuzumab",
+          "ar": "التراستوزوماب"
+        },
+        {
+          "id": "rituximab",
+          "en": "Rituximab",
+          "ar": "الريتوكسيماب"
+        },
+        {
+          "id": "pembrolizumab",
+          "en": "Pembrolizumab",
+          "ar": "البيمبروليزوماب"
+        },
+        {
+          "id": "blinatumomab",
+          "en": "Blinatumomab",
+          "ar": "البليناتوموماب"
+        },
+        {
+          "id": "lenalidomide",
+          "en": "Lenalidomide",
+          "ar": "الليناليدوميد"
+        },
+        {
+          "id": "thalidomide",
+          "en": "Thalidomide",
+          "ar": "الثاليدوميد"
+        },
+        {
+          "id": "filgrastim",
+          "en": "Filgrastim",
+          "ar": "الفيلجراستيم"
+        },
+        {
+          "id": "pegfilgrastim",
+          "en": "Pegfilgrastim",
+          "ar": "البيج فيلجراستيم"
+        },
+        {
+          "id": "tamoxifen",
+          "en": "Tamoxifen",
+          "ar": "التاموكسيفين"
+        },
+        {
+          "id": "anastrozole",
+          "en": "Anastrozole",
+          "ar": "الأناستروزول"
+        }
+      ]
+    },
+    {
+      "tag": "onco6",
+      "section": "أورام وعلاج كيماوي · تخدير ومرخيات عضلية",
+      "drugs": [
+        {
+          "id": "bicalutamide",
+          "en": "Bicalutamide",
+          "ar": "البيكالوتاميد"
+        },
+        {
+          "id": "abiraterone",
+          "en": "Abiraterone",
+          "ar": "الأبيراتيرون"
+        },
+        {
+          "id": "leuprorelin",
+          "en": "Leuprorelin",
+          "ar": "الليوبروريلين"
+        },
+        {
+          "id": "mesna",
+          "en": "Mesna",
+          "ar": "الميسنا"
+        },
+        {
+          "id": "rasburicase",
+          "en": "Rasburicase",
+          "ar": "الراسبوريكاز"
+        },
+        {
+          "id": "zoledronic-acid",
+          "en": "Zoledronic acid",
+          "ar": "حمض الزوليدرونيك"
+        },
+        {
+          "id": "isoflurane",
+          "en": "Isoflurane",
+          "ar": "الآيزوفلوران"
+        },
+        {
+          "id": "sevoflurane",
+          "en": "Sevoflurane",
+          "ar": "السيفوفلوران"
+        },
+        {
+          "id": "nitrous-oxide",
+          "en": "Nitrous oxide",
+          "ar": "أكسيد النيتروز"
+        },
+        {
+          "id": "oxygen",
+          "en": "Oxygen",
+          "ar": "الأكسجين"
+        }
+      ]
+    },
+    {
+      "tag": "anaes1",
+      "section": "تخدير ومرخيات عضلية",
+      "drugs": [
+        {
+          "id": "ketamine",
+          "en": "Ketamine",
+          "ar": "الكيتامين"
+        },
+        {
+          "id": "propofol",
+          "en": "Propofol",
+          "ar": "البروبوفول"
+        },
+        {
+          "id": "bupivacaine",
+          "en": "Bupivacaine",
+          "ar": "البوبيفاكايين"
+        },
+        {
+          "id": "lidocaine",
+          "en": "Lidocaine",
+          "ar": "الليدوكايين"
+        },
+        {
+          "id": "lidocaine-epinephrine",
+          "en": "Lidocaine + epinephrine (adrenaline)",
+          "ar": "الليدوكايين مع الأدرينالين"
+        },
+        {
+          "id": "ephedrine",
+          "en": "Ephedrine",
+          "ar": "الإيفيدرين"
+        },
+        {
+          "id": "atropine",
+          "en": "Atropine",
+          "ar": "الأتروبين"
+        },
+        {
+          "id": "atracurium",
+          "en": "Atracurium",
+          "ar": "الأتراكوريوم"
+        },
+        {
+          "id": "suxamethonium",
+          "en": "Suxamethonium",
+          "ar": "السكسينيل كولين"
+        },
+        {
+          "id": "vecuronium",
+          "en": "Vecuronium",
+          "ar": "الفيكورونيوم"
+        }
+      ]
+    },
+    {
+      "tag": "tox1",
+      "section": "ترياقات وتسمّم",
+      "drugs": [
+        {
+          "id": "charcoal-activated",
+          "en": "Charcoal, activated",
+          "ar": "الفحم المنشّط"
+        },
+        {
+          "id": "acetylcysteine",
+          "en": "Acetylcysteine",
+          "ar": "الأسيتيل سيستئين"
+        },
+        {
+          "id": "naloxone",
+          "en": "Naloxone",
+          "ar": "النالوكسون"
+        },
+        {
+          "id": "calcium-gluconate",
+          "en": "Calcium gluconate",
+          "ar": "جلوكونات الكالسيوم"
+        },
+        {
+          "id": "dimercaprol",
+          "en": "Dimercaprol",
+          "ar": "الديميركابرول"
+        },
+        {
+          "id": "fomepizole",
+          "en": "Fomepizole",
+          "ar": "الفوميبيزول"
+        },
+        {
+          "id": "methylthioninium-chloride",
+          "en": "Methylthioninium chloride (methylene blue)",
+          "ar": "الميثيلين الأزرق"
+        },
+        {
+          "id": "prussian-blue",
+          "en": "Potassium ferric hexacyano-ferrate(II) -2H2O",
+          "ar": "الأزرق البروسي"
+        },
+        {
+          "id": "sodium-calcium-edetate",
+          "en": "Sodium calcium edetate",
+          "ar": "إيديتات الكالسيوم والصوديوم"
+        },
+        {
+          "id": "sodium-nitrite",
+          "en": "Sodium nitrite",
+          "ar": "نتريت الصوديوم"
+        }
+      ]
+    },
+    {
+      "tag": "tox2",
+      "section": "ترياقات وتسمّم · سوائل وأملاح ومحاليل",
+      "drugs": [
+        {
+          "id": "sodium-thiosulfate",
+          "en": "Sodium thiosulfate",
+          "ar": "ثيوسلفات الصوديوم"
+        },
+        {
+          "id": "succimer",
+          "en": "Succimer",
+          "ar": "السكسيمر"
+        },
+        {
+          "id": "sodium-chloride",
+          "en": "Sodium chloride",
+          "ar": "كلوريد الصوديوم"
+        },
+        {
+          "id": "glucose",
+          "en": "Glucose",
+          "ar": "الجلوكوز"
+        },
+        {
+          "id": "glucose-with-sodium-chloride",
+          "en": "Glucose with sodium chloride",
+          "ar": "الجلوكوز مع كلوريد الصوديوم"
+        },
+        {
+          "id": "potassium-chloride",
+          "en": "Potassium chloride",
+          "ar": "كلوريد البوتاسيوم"
+        },
+        {
+          "id": "sodium-hydrogen-carbonate",
+          "en": "Sodium hydrogen carbonate",
+          "ar": "بيكربونات الصوديوم"
+        },
+        {
+          "id": "sodium-lactate-compound-solution",
+          "en": "Sodium lactate, compound solution",
+          "ar": "محلول رينجر لاكتات"
+        },
+        {
+          "id": "water-for-injection",
+          "en": "Water for injection",
+          "ar": "ماء الحقن"
+        },
+        {
+          "id": "intraperitoneal-dialysis-solution",
+          "en": "Intraperitoneal dialysis solution",
+          "ar": "محلول الغسيل البريتوني"
+        }
+      ]
+    },
+    {
+      "tag": "vacc1",
+      "section": "لقاحات ومصول وأمصال",
+      "drugs": [
+        {
+          "id": "bcg-vaccine",
+          "en": "BCG vaccine",
+          "ar": "لقاح السلّ (BCG)"
+        },
+        {
+          "id": "cholera-vaccine",
+          "en": "Cholera vaccine",
+          "ar": "لقاح الكوليرا"
+        },
+        {
+          "id": "dengue-vaccine",
+          "en": "Dengue vaccine",
+          "ar": "لقاح حمّى الضنك"
+        },
+        {
+          "id": "diphtheria-vaccine",
+          "en": "Diphtheria vaccine",
+          "ar": "لقاح الدفتيريا"
+        },
+        {
+          "id": "ebola-vaccine",
+          "en": "Ebola vaccine",
+          "ar": "لقاح الإيبولا"
+        },
+        {
+          "id": "haemophilus-influenzae-type-b-vaccine",
+          "en": "Haemophilus influenzae type b vaccine",
+          "ar": "لقاح المستدمية النزلية ب"
+        },
+        {
+          "id": "hepatitis-a-vaccine",
+          "en": "Hepatitis A vaccine",
+          "ar": "لقاح التهاب الكبد أ"
+        },
+        {
+          "id": "hepatitis-b-vaccine",
+          "en": "Hepatitis B vaccine",
+          "ar": "لقاح التهاب الكبد ب"
+        },
+        {
+          "id": "hepatitis-e-vaccine",
+          "en": "Hepatitis E vaccine",
+          "ar": "لقاح التهاب الكبد هـ"
+        },
+        {
+          "id": "human-papillomavirus-vaccine",
+          "en": "Human papilloma virus (HPV) vaccine",
+          "ar": "لقاح فيروس الورم الحليمي البشري"
+        }
+      ]
+    },
+    {
+      "tag": "vacc2",
+      "section": "لقاحات ومصول وأمصال",
+      "drugs": [
+        {
+          "id": "influenza-vaccine-seasonal",
+          "en": "Influenza vaccine (seasonal)",
+          "ar": "لقاح الإنفلونزا الموسمية"
+        },
+        {
+          "id": "japanese-encephalitis-vaccine",
+          "en": "Japanese encephalitis vaccine",
+          "ar": "لقاح التهاب الدماغ الياباني"
+        },
+        {
+          "id": "malaria-vaccine",
+          "en": "Malaria vaccine",
+          "ar": "لقاح الملاريا"
+        },
+        {
+          "id": "measles-vaccine",
+          "en": "Measles vaccine",
+          "ar": "لقاح الحصبة"
+        },
+        {
+          "id": "meningococcal-meningitis-vaccine",
+          "en": "Meningococcal meningitis vaccine",
+          "ar": "لقاح الالتهاب السحائي"
+        },
+        {
+          "id": "mpox-vaccine",
+          "en": "Mpox vaccine",
+          "ar": "لقاح جدري القردة"
+        },
+        {
+          "id": "mumps-vaccine",
+          "en": "Mumps vaccine",
+          "ar": "لقاح النكاف"
+        },
+        {
+          "id": "pertussis-vaccine",
+          "en": "Pertussis vaccine",
+          "ar": "لقاح السعال الديكي"
+        },
+        {
+          "id": "pneumococcal-vaccine",
+          "en": "Pneumococcal vaccine",
+          "ar": "لقاح المكوّرات الرئوية"
+        },
+        {
+          "id": "poliomyelitis-vaccine",
+          "en": "Poliomyelitis vaccine",
+          "ar": "لقاح شلل الأطفال"
+        }
+      ]
+    },
+    {
+      "tag": "vacc3",
+      "section": "لقاحات ومصول وأمصال",
+      "drugs": [
+        {
+          "id": "rabies-vaccine",
+          "en": "Rabies vaccine",
+          "ar": "لقاح السعار"
+        },
+        {
+          "id": "respiratory-syncytial-virus-vaccine",
+          "en": "Respiratory syncytial virus vaccine",
+          "ar": "لقاح الفيروس المخلوي التنفسي"
+        },
+        {
+          "id": "rotavirus-vaccine",
+          "en": "Rotavirus vaccine",
+          "ar": "لقاح الفيروس العجلي"
+        },
+        {
+          "id": "rubella-vaccine",
+          "en": "Rubella vaccine",
+          "ar": "لقاح الحصبة الألمانية"
+        },
+        {
+          "id": "tetanus-vaccine",
+          "en": "Tetanus vaccine",
+          "ar": "لقاح الكزاز"
+        },
+        {
+          "id": "tick-borne-encephalitis-vaccine",
+          "en": "Tick-borne encephalitis vaccine",
+          "ar": "لقاح التهاب الدماغ المنقول بالقراد"
+        },
+        {
+          "id": "typhoid-vaccine",
+          "en": "Typhoid vaccine",
+          "ar": "لقاح التيفوئيد"
+        },
+        {
+          "id": "varicella-vaccine",
+          "en": "Varicella vaccine",
+          "ar": "لقاح الجدري المائي"
+        },
+        {
+          "id": "yellow-fever-vaccine",
+          "en": "Yellow fever vaccine",
+          "ar": "لقاح الحمّى الصفراء"
+        },
+        {
+          "id": "tuberculin-ppd",
+          "en": "Tuberculin, purified protein derivative (PPD)",
+          "ar": "اختبار التوبركولين"
+        }
+      ]
+    },
+    {
+      "tag": "vacc4",
+      "section": "لقاحات ومصول وأمصال · مطهّرات وأصباغ تشخيصية",
+      "drugs": [
+        {
+          "id": "diphtheria-antitoxin",
+          "en": "Diphtheria antitoxin",
+          "ar": "مضاد سموم الدفتيريا"
+        },
+        {
+          "id": "antivenom-immunoglobulin",
+          "en": "Antivenom immunoglobulin",
+          "ar": "المصل المضاد للسموم (لدغات)"
+        },
+        {
+          "id": "equine-rabies-immunoglobulin",
+          "en": "Equine rabies immunoglobulin",
+          "ar": "الغلوبولين الخيلي المضاد للسعار"
+        },
+        {
+          "id": "anti-rabies-virus-monoclonal-antibodies",
+          "en": "Anti-rabies virus monoclonal antibodies",
+          "ar": "الأجسام وحيدة النسيلة المضادة للسعار"
+        },
+        {
+          "id": "chlorhexidine",
+          "en": "Chlorhexidine",
+          "ar": "الكلورهيكسيدين"
+        },
+        {
+          "id": "ethanol",
+          "en": "Ethanol",
+          "ar": "الكحول الإيثيلي"
+        },
+        {
+          "id": "povidone-iodine",
+          "en": "Povidone iodine",
+          "ar": "البوفيدون يودين"
+        },
+        {
+          "id": "alcohol-based-hand-rub",
+          "en": "Alcohol based hand rub",
+          "ar": "مطهّر اليدين الكحولي"
+        },
+        {
+          "id": "chlorine-base-compound",
+          "en": "Chlorine base compound",
+          "ar": "مركّبات الكلور"
+        },
+        {
+          "id": "chloroxylenol",
+          "en": "Chloroxylenol",
+          "ar": "الكلوروزيلينول"
+        }
+      ]
+    },
+    {
+      "tag": "antisep1",
+      "section": "مطهّرات وأصباغ تشخيصية · أسنان وتليّف كيسي",
+      "drugs": [
+        {
+          "id": "glutaral",
+          "en": "Glutaral",
+          "ar": "الجلوتارالدهيد"
+        },
+        {
+          "id": "hypochlorous-acid",
+          "en": "Hypochlorous acid",
+          "ar": "حمض الهيبوكلوروز"
+        },
+        {
+          "id": "amidotrizoate",
+          "en": "Amidotrizoate",
+          "ar": "الأميدوتريزوات"
+        },
+        {
+          "id": "barium-sulfate",
+          "en": "Barium sulfate",
+          "ar": "كبريتات الباريوم"
+        },
+        {
+          "id": "iohexol",
+          "en": "Iohexol",
+          "ar": "الأيوهيكسول"
+        },
+        {
+          "id": "meglumine-iotroxate",
+          "en": "Meglumine iotroxate",
+          "ar": "أيوتروكسات الميجلومين"
+        },
+        {
+          "id": "fluoride",
+          "en": "Fluoride",
+          "ar": "الفلورايد"
+        },
+        {
+          "id": "silver-diamine-fluoride",
+          "en": "Silver diamine fluoride",
+          "ar": "فلورايد الديامين الفضّي"
+        },
+        {
+          "id": "glass-ionomer-cement",
+          "en": "Glass ionomer cement",
+          "ar": "أسمنت الأيونومر الزجاجي"
+        },
+        {
+          "id": "resin-composite-high-viscosity",
+          "en": "Resin-based composite (high-viscosity)",
+          "ar": "الكمبوزيت الراتنجي عالي اللزوجة"
+        }
+      ]
+    },
+    {
+      "tag": "dental1",
+      "section": "أسنان وتليّف كيسي",
+      "drugs": [
+        {
+          "id": "resin-composite-low-viscosity",
+          "en": "Resin-based composite (low-viscosity)",
+          "ar": "الكمبوزيت الراتنجي منخفض اللزوجة"
+        },
+        {
+          "id": "ivacaftor",
+          "en": "Ivacaftor",
+          "ar": "الآيفاكافتور"
+        },
+        {
+          "id": "elexacaftor-tezacaftor-ivacaftor",
+          "en": "Elexacaftor + tezacaftor + ivacaftor",
+          "ar": "الإليكساكافتور مع التيزاكافتور والآيفاكافتور"
+        }
+      ]
+    }
+  ]
+}
