@@ -9,7 +9,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'sinuses', type: 'organ', system: 'organs',
     name: { ar: 'الجيوب الأنفية', en: 'Paranasal sinuses' },
-    img: 'img/sinuses.png', imgBack: 'img/sinuses-back.png', thumb: 'img/thumb-sinuses.png',
+    img: 'img/sinuses.webp', imgBack: 'img/sinuses-back.webp', thumb: 'img/thumb-sinuses.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -115,7 +115,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'parathyroid', type: 'organ', system: 'endocrine',
     name: { ar: 'الغدد جارات الدرقية', en: 'Parathyroid glands' },
-    img: 'img/parathyroid.png', imgBack: 'img/parathyroid-back.png', thumb: 'img/thumb-parathyroid.png',
+    img: 'img/parathyroid.webp', imgBack: 'img/parathyroid-back.webp', thumb: 'img/thumb-parathyroid.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -234,7 +234,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'tmj', type: 'organ', system: 'skeleton',
     name: { ar: 'المفصل الصدغي الفكي', en: 'Temporomandibular joint' },
-    img: 'img/tmj.png', imgBack: 'img/tmj-back.png', thumb: 'img/thumb-tmj.png',
+    img: 'img/tmj.webp', imgBack: 'img/tmj-back.webp', thumb: 'img/thumb-tmj.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -340,7 +340,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'hip', type: 'organ', system: 'skeleton',
     name: { ar: 'مفصل الورك', en: 'Hip joint' },
-    img: 'img/hip.png', imgBack: 'img/hip-back.png', thumb: 'img/thumb-hip.png',
+    img: 'img/hip.webp', imgBack: 'img/hip-back.webp', thumb: 'img/thumb-hip.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -467,7 +467,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'cell', type: 'organ', system: 'skin',
     name: { ar: 'الخلية البشرية', en: 'The human cell' },
-    img: 'img/cell.png', imgBack: 'img/cell-back.png', thumb: 'img/thumb-cell.png',
+    img: 'img/cell.webp', imgBack: 'img/cell-back.webp', thumb: 'img/thumb-cell.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -594,7 +594,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'muscle-fiber', type: 'organ', system: 'muscles',
     name: { ar: 'الليف العضلي', en: 'The muscle fibre' },
-    img: 'img/muscle-fiber.png', imgBack: 'img/muscle-fiber-back.png', thumb: 'img/thumb-muscle-fiber.png',
+    img: 'img/muscle-fiber.webp', imgBack: 'img/muscle-fiber-back.webp', thumb: 'img/thumb-muscle-fiber.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -714,7 +714,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'bone-inside', type: 'organ', system: 'skeleton',
     name: { ar: 'داخل العظم', en: 'Inside a bone' },
-    img: 'img/bone-inside.png', imgBack: 'img/bone-inside-back.png', thumb: 'img/thumb-bone-inside.png',
+    img: 'img/bone-inside.webp', imgBack: 'img/bone-inside-back.webp', thumb: 'img/thumb-bone-inside.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -827,7 +827,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'elbow', type: 'organ', system: 'skeleton',
     name: { ar: 'مفصل المرفق', en: 'Elbow joint' },
-    img: 'img/elbow.png', imgBack: 'img/elbow-back.png', thumb: 'img/thumb-elbow.png',
+    img: 'img/elbow.webp', imgBack: 'img/elbow-back.webp', thumb: 'img/thumb-elbow.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -947,7 +947,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'ankle', type: 'organ', system: 'skeleton',
     name: { ar: 'مفصل الكاحل', en: 'Ankle joint' },
-    img: 'img/ankle.png', imgBack: 'img/ankle-back.png', thumb: 'img/thumb-ankle.png',
+    img: 'img/ankle.webp', imgBack: 'img/ankle-back.webp', thumb: 'img/thumb-ankle.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'nephron', type: 'organ', system: 'organs',
     name: { ar: 'النفرون', en: 'Nephron' },
-    img: 'img/nephron.png', imgBack: 'img/nephron-back.png', thumb: 'img/thumb-nephron.png',
+    img: 'img/nephron.webp', imgBack: 'img/nephron-back.webp', thumb: 'img/thumb-nephron.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -123,7 +123,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'villi', type: 'organ', system: 'organs',
     name: { ar: 'الزغابات المعوية', en: 'Intestinal villi' },
-    img: 'img/villi.png', imgBack: 'img/villi-back.png', thumb: 'img/thumb-villi.png',
+    img: 'img/villi.webp', imgBack: 'img/villi-back.webp', thumb: 'img/thumb-villi.webp',
     labels: [
       {
         ar: 'الطيات الدائرية', en: 'Circular folds', x: 85, y: 13, side: 'right', go: 'small-intestine',
@@ -249,7 +249,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'dna', type: 'organ', system: 'skin',
     name: { ar: 'الحمض النووي', en: 'DNA' },
-    img: 'img/dna.png', imgBack: 'img/dna-back.png', thumb: 'img/thumb-dna.png',
+    img: 'img/dna.webp', imgBack: 'img/dna-back.webp', thumb: 'img/thumb-dna.webp',
     labels: [
       {
         ar: 'السنترومير', en: 'Centromere', x: 16, y: 23, side: 'left',
@@ -354,7 +354,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'coronary', type: 'organ', system: 'vessels',
     name: { ar: 'الشرايين التاجية', en: 'Coronary arteries' },
-    img: 'img/coronary.png', imgBack: 'img/coronary-back.png', thumb: 'img/thumb-coronary.png',
+    img: 'img/coronary.webp', imgBack: 'img/coronary-back.webp', thumb: 'img/thumb-coronary.webp',
     labels: [
       {
         ar: 'الأبهر', en: 'Aorta', x: 45, y: 7, side: 'left', go: 'vessels',
@@ -466,7 +466,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'skull', type: 'organ', system: 'skeleton',
     name: { ar: 'الجمجمة', en: 'Skull' },
-    img: 'img/skull.png', imgBack: 'img/skull-back.png', thumb: 'img/thumb-skull.png',
+    img: 'img/skull.webp', imgBack: 'img/skull-back.webp', thumb: 'img/thumb-skull.webp',
     labels: [
       {
         ar: 'الدرز الإكليلي', en: 'Coronal suture', x: 44, y: 13, side: 'left',
@@ -592,7 +592,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'pelvis', type: 'organ', system: 'skeleton',
     name: { ar: 'الحوض', en: 'Pelvis' },
-    img: 'img/pelvis.png', imgBack: 'img/pelvis-back.png', thumb: 'img/thumb-pelvis.png',
+    img: 'img/pelvis.webp', imgBack: 'img/pelvis-back.webp', thumb: 'img/thumb-pelvis.webp',
     labels: [
       {
         ar: 'حوض الرجل', en: 'Male pelvis', x: 10, y: 22, side: 'left', go: 'skeleton',
@@ -711,7 +711,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'spine', type: 'organ', system: 'skeleton',
     name: { ar: 'العمود الفقري', en: 'Vertebral column' },
-    img: 'img/spine.png', imgBack: 'img/spine-back.png', thumb: 'img/thumb-spine.png',
+    img: 'img/spine.webp', imgBack: 'img/spine-back.webp', thumb: 'img/thumb-spine.webp',
     labels: [
       {
         ar: 'الفقرات الرقبية السبع', en: 'The seven cervical vertebrae', x: 43, y: 9, side: 'left',
@@ -830,7 +830,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'peripheral-nerve', type: 'organ', system: 'nervous',
     name: { ar: 'العصب الطرفي', en: 'Peripheral nerve' },
-    img: 'img/peripheral-nerve.png', imgBack: 'img/peripheral-nerve-back.png', thumb: 'img/thumb-peripheral-nerve.png',
+    img: 'img/peripheral-nerve.webp', imgBack: 'img/peripheral-nerve-back.webp', thumb: 'img/thumb-peripheral-nerve.webp',
     labels: [
       {
         ar: 'أوعية دموية داخل الغلاف', en: 'Vessels within the sheath', x: 48, y: 29, side: 'left',

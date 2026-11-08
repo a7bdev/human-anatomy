@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'nmj', type: 'organ', system: 'nervous',
     name: { ar: 'الوصل العصبي العضلي', en: 'The neuromuscular junction' },
-    img: 'img/nmj.png', imgBack: 'img/nmj-back.png', thumb: 'img/thumb-nmj.png',
+    img: 'img/nmj.webp', imgBack: 'img/nmj-back.webp', thumb: 'img/thumb-nmj.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -143,7 +143,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'clotting', type: 'organ', system: 'vessels',
     name: { ar: 'تخثّر الدم', en: 'Blood clotting' },
-    img: 'img/clotting.png', imgBack: 'img/clotting-back.png', thumb: 'img/thumb-clotting.png',
+    img: 'img/clotting.webp', imgBack: 'img/clotting-back.webp', thumb: 'img/thumb-clotting.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -270,7 +270,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'serous-membranes', type: 'organ', system: 'organs',
     name: { ar: 'الأغشية المصلية', en: 'The serous membranes' },
-    img: 'img/serous-membranes.png', imgBack: 'img/serous-membranes-back.png', thumb: 'img/thumb-serous-membranes.png',
+    img: 'img/serous-membranes.webp', imgBack: 'img/serous-membranes-back.webp', thumb: 'img/thumb-serous-membranes.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

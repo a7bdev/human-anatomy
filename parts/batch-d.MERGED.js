@@ -4,7 +4,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'breast', type: 'organ', system: 'reproductive',
     name: { ar: 'الثدي', en: 'Breast' },
-    img: 'img/breast.png', imgBack: 'img/breast-back.png', thumb: 'img/thumb-breast.png',
+    img: 'img/breast.webp', imgBack: 'img/breast-back.webp', thumb: 'img/thumb-breast.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

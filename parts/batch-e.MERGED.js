@@ -4,7 +4,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'pregnancy', type: 'organ', system: 'reproductive',
     name: { ar: 'الرحم الحامل والمشيمة', en: 'Pregnant uterus and placenta' },
-    img: 'img/pregnancy.png', imgBack: 'img/pregnancy-back.png', thumb: 'img/thumb-pregnancy.png',
+    img: 'img/pregnancy.webp', imgBack: 'img/pregnancy-back.webp', thumb: 'img/thumb-pregnancy.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -131,7 +131,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'ovary', type: 'organ', system: 'reproductive',
     name: { ar: 'المبيض', en: 'Ovary' },
-    img: 'img/ovary.png', imgBack: 'img/ovary-back.png', thumb: 'img/thumb-ovary.png',
+    img: 'img/ovary.webp', imgBack: 'img/ovary-back.webp', thumb: 'img/thumb-ovary.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -244,7 +244,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'pineal', type: 'organ', system: 'endocrine',
     name: { ar: 'الغدة الصنوبرية', en: 'Pineal gland' },
-    img: 'img/pineal.png', imgBack: 'img/pineal-back.png', thumb: 'img/thumb-pineal.png',
+    img: 'img/pineal.webp', imgBack: 'img/pineal-back.webp', thumb: 'img/thumb-pineal.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -349,7 +349,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'lymph-node', type: 'organ', system: 'lymphatic',
     name: { ar: 'العقدة اللمفاوية', en: 'Lymph node' },
-    img: 'img/lymph-node.png', imgBack: 'img/lymph-node-back.png', thumb: 'img/thumb-lymph-node.png',
+    img: 'img/lymph-node.webp', imgBack: 'img/lymph-node-back.webp', thumb: 'img/thumb-lymph-node.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

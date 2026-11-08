@@ -1,5 +1,12 @@
 # Human Anatomy · جسم الإنسان
 
+### 🔗 Live site · الموقع المباشر: **[anatomy.a7bdev.com](https://anatomy.a7bdev.com)**
+
+[![Live](https://img.shields.io/badge/live-anatomy.a7bdev.com-017bfb)](https://anatomy.a7bdev.com) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+![Screenshot of the Human Anatomy explorer](docs/screenshot.webp)
+
+
 An interactive, bilingual (English / Arabic RTL) human-anatomy explorer that runs
 entirely in the browser — no backend, no build step, no tracking. Explore body
 systems, organs and senses, browse a disease encyclopedia and a drug reference,

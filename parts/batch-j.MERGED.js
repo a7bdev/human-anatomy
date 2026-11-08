@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'limbic', type: 'organ', system: 'nervous',
     name: { ar: 'الجهاز الحوفي', en: 'Limbic system' },
-    img: 'img/limbic.png', imgBack: 'img/limbic-back.png', thumb: 'img/thumb-limbic.png',
+    img: 'img/limbic.webp', imgBack: 'img/limbic-back.webp', thumb: 'img/thumb-limbic.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -121,7 +121,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'cortex-map', type: 'organ', system: 'nervous',
     name: { ar: 'خريطة القشرة الدماغية', en: 'The cortical body map' },
-    img: 'img/cortex-map.png', imgBack: 'img/cortex-map-back.png', thumb: 'img/thumb-cortex-map.png',
+    img: 'img/cortex-map.webp', imgBack: 'img/cortex-map-back.webp', thumb: 'img/thumb-cortex-map.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -246,7 +246,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'retina', type: 'organ', system: 'senses',
     name: { ar: 'العصي والمخاريط', en: 'Rods and cones' },
-    img: 'img/retina.png', imgBack: 'img/retina-back.png', thumb: 'img/thumb-retina.png',
+    img: 'img/retina.webp', imgBack: 'img/retina-back.webp', thumb: 'img/thumb-retina.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

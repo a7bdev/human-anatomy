@@ -3,7 +3,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'skin-receptors', type: 'organ', system: 'skin',
     name: { ar: 'مستقبلات الجلد', en: 'The skin receptors' },
-    img: 'img/skin-receptors.png', imgBack: 'img/skin-receptors-back.png', thumb: 'img/thumb-skin-receptors.png',
+    img: 'img/skin-receptors.webp', imgBack: 'img/skin-receptors-back.webp', thumb: 'img/thumb-skin-receptors.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -146,7 +146,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'balance', type: 'organ', system: 'senses',
     name: { ar: 'جهاز التوازن', en: 'The balance organ (vestibular apparatus)' },
-    img: 'img/balance.png', imgBack: 'img/balance-back.png', thumb: 'img/thumb-balance.png',
+    img: 'img/balance.webp', imgBack: 'img/balance-back.webp', thumb: 'img/thumb-balance.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -268,7 +268,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'autonomic', type: 'organ', system: 'nervous',
     name: { ar: 'الجهاز العصبي الذاتي', en: 'The autonomic nervous system' },
-    img: 'img/autonomic.png', imgBack: 'img/autonomic-back.png', thumb: 'img/thumb-autonomic.png',
+    img: 'img/autonomic.webp', imgBack: 'img/autonomic-back.webp', thumb: 'img/thumb-autonomic.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -404,7 +404,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'immunity', type: 'organ', system: 'lymphatic',
     name: { ar: 'المناعة', en: 'The immune response' },
-    img: 'img/immunity.png', imgBack: 'img/immunity-back.png', thumb: 'img/thumb-immunity.png',
+    img: 'img/immunity.webp', imgBack: 'img/immunity-back.webp', thumb: 'img/thumb-immunity.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

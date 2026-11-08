@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'muscle-types', type: 'organ', system: 'muscles',
     name: { ar: 'أنواع العضلات الثلاثة', en: 'The three types of muscle' },
-    img: 'img/muscle-types.png', imgBack: 'img/muscle-types-back.png', thumb: 'img/thumb-muscle-types.png',
+    img: 'img/muscle-types.webp', imgBack: 'img/muscle-types-back.webp', thumb: 'img/thumb-muscle-types.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -142,7 +142,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'bbb', type: 'organ', system: 'nervous',
     name: { ar: 'الحاجز الدموي الدماغي', en: 'The blood-brain barrier' },
-    img: 'img/bbb.png', imgBack: 'img/bbb-back.png', thumb: 'img/thumb-bbb.png',
+    img: 'img/bbb.webp', imgBack: 'img/bbb-back.webp', thumb: 'img/thumb-bbb.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -267,7 +267,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'wound-healing', type: 'organ', system: 'skin',
     name: { ar: 'التئام الجرح', en: 'Wound healing' },
-    img: 'img/wound-healing.png', imgBack: 'img/wound-healing-back.png', thumb: 'img/thumb-wound-healing.png',
+    img: 'img/wound-healing.webp', imgBack: 'img/wound-healing-back.webp', thumb: 'img/thumb-wound-healing.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

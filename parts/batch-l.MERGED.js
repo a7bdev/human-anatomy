@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'cranial-nerves', type: 'organ', system: 'nervous',
     name: { ar: 'الأعصاب القحفية', en: 'Cranial nerves' },
-    img: 'img/cranial-nerves.png', imgBack: 'img/cranial-nerves-back.png', thumb: 'img/thumb-cranial-nerves.png',
+    img: 'img/cranial-nerves.webp', imgBack: 'img/cranial-nerves-back.webp', thumb: 'img/thumb-cranial-nerves.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -142,7 +142,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'fetal-circulation', type: 'organ', system: 'reproductive',
     name: { ar: 'الدوران الجنيني', en: 'Fetal circulation' },
-    img: 'img/fetal-circulation.png', imgBack: 'img/fetal-circulation-back.png', thumb: 'img/thumb-fetal-circulation.png',
+    img: 'img/fetal-circulation.webp', imgBack: 'img/fetal-circulation-back.webp', thumb: 'img/thumb-fetal-circulation.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -274,7 +274,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'meiosis', type: 'organ', system: 'skin',
     name: { ar: 'الانقسام المنصّف', en: 'Meiosis' },
-    img: 'img/meiosis.png', imgBack: 'img/meiosis-back.png', thumb: 'img/thumb-meiosis.png',
+    img: 'img/meiosis.webp', imgBack: 'img/meiosis-back.webp', thumb: 'img/thumb-meiosis.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

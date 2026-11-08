@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'lips', type: 'organ', system: 'organs',
     name: { ar: 'الشفتان', en: 'Lips' },
-    img: 'img/lips.png', imgBack: 'img/lips-back.png', thumb: 'img/thumb-lips.png',
+    img: 'img/lips.webp', imgBack: 'img/lips-back.webp', thumb: 'img/thumb-lips.webp',
     labels: [
       {
         ar: 'جلد الوجه', en: 'Facial skin', x: 15, y: 14, side: 'left', go: 'skin',
@@ -122,7 +122,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'hand', type: 'organ', system: 'skeleton',
     name: { ar: 'كف اليد', en: 'Hand' },
-    img: 'img/hand.png', imgBack: 'img/hand-back.png', thumb: 'img/thumb-hand.png',
+    img: 'img/hand.webp', imgBack: 'img/hand-back.webp', thumb: 'img/thumb-hand.webp',
     labels: [
       {
         ar: 'السلامية البعيدة', en: 'Distal phalanx', x: 38, y: 5, side: 'left', go: 'skeleton',
@@ -248,7 +248,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'carpal-tunnel', type: 'organ', system: 'skeleton',
     name: { ar: 'النفق الرسغي', en: 'Carpal tunnel' },
-    img: 'img/carpal-tunnel.png', imgBack: 'img/carpal-tunnel-back.png', thumb: 'img/thumb-carpal-tunnel.png',
+    img: 'img/carpal-tunnel.webp', imgBack: 'img/carpal-tunnel-back.webp', thumb: 'img/thumb-carpal-tunnel.webp',
     labels: [
       {
         ar: 'الجلد', en: 'Skin', x: 30, y: 11, side: 'left', go: 'skin',
@@ -374,7 +374,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'foot', type: 'organ', system: 'skeleton',
     name: { ar: 'القدم', en: 'Foot' },
-    img: 'img/foot.png', imgBack: 'img/foot-back.png', thumb: 'img/thumb-foot.png',
+    img: 'img/foot.webp', imgBack: 'img/foot-back.webp', thumb: 'img/thumb-foot.webp',
     labels: [
       {
         ar: 'عضلات الساق', en: 'Calf muscles', x: 25, y: 9, side: 'left', go: 'muscles',
@@ -493,7 +493,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'anorectal', type: 'organ', system: 'organs',
     name: { ar: 'المستقيم والقناة الشرجية', en: 'Rectum and anal canal' },
-    img: 'img/anorectal.png', imgBack: 'img/anorectal-back.png', thumb: 'img/thumb-anorectal.png',
+    img: 'img/anorectal.webp', imgBack: 'img/anorectal-back.webp', thumb: 'img/thumb-anorectal.webp',
     labels: [
       {
         ar: 'الطيات المستعرضة للمستقيم', en: 'Transverse rectal folds', x: 58, y: 14, side: 'right',
@@ -605,7 +605,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'hair-follicle', type: 'organ', system: 'skin',
     name: { ar: 'بصيلة الشعرة', en: 'Hair follicle' },
-    img: 'img/hair-follicle.png', imgBack: 'img/hair-follicle-back.png', thumb: 'img/thumb-hair-follicle.png',
+    img: 'img/hair-follicle.webp', imgBack: 'img/hair-follicle-back.webp', thumb: 'img/thumb-hair-follicle.webp',
     labels: [
       {
         ar: 'البشرة', en: 'Epidermis', x: 28, y: 13, side: 'left', go: 'skin',
@@ -731,7 +731,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'nail', type: 'organ', system: 'skin',
     name: { ar: 'الظفر', en: 'Nail' },
-    img: 'img/nail.png', imgBack: 'img/nail-back.png', thumb: 'img/thumb-nail.png',
+    img: 'img/nail.webp', imgBack: 'img/nail-back.webp', thumb: 'img/thumb-nail.webp',
     labels: [
       {
         ar: 'الطية الظفرية الخلفية', en: 'Proximal nail fold', x: 24, y: 16, side: 'left',
@@ -850,7 +850,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'shoulder', type: 'organ', system: 'skeleton',
     name: { ar: 'مفصل الكتف', en: 'Shoulder joint' },
-    img: 'img/shoulder.png', imgBack: 'img/shoulder-back.png', thumb: 'img/thumb-shoulder.png',
+    img: 'img/shoulder.webp', imgBack: 'img/shoulder-back.webp', thumb: 'img/thumb-shoulder.webp',
     labels: [
       {
         ar: 'الجراب تحت الأخرمي', en: 'Subacromial bursa', x: 40, y: 22, side: 'left',
@@ -969,7 +969,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'vertebra-disc', type: 'organ', system: 'skeleton',
     name: { ar: 'الفقرة والقرص بين الفقرات', en: 'Vertebra and intervertebral disc' },
-    img: 'img/vertebra-disc.png', imgBack: 'img/vertebra-disc-back.png', thumb: 'img/thumb-vertebra-disc.png',
+    img: 'img/vertebra-disc.webp', imgBack: 'img/vertebra-disc-back.webp', thumb: 'img/thumb-vertebra-disc.webp',
     labels: [
       {
         ar: 'جسم الفقرة (العلوي)', en: 'Vertebral body (upper)', x: 28, y: 22, side: 'left', go: 'skeleton',

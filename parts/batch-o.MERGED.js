@@ -9,7 +9,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'growth-plate', type: 'organ', system: 'skeleton',
     name: { ar: 'صفيحة النمو', en: 'The growth plate' },
-    img: 'img/growth-plate.png', imgBack: 'img/growth-plate-back.png', thumb: 'img/thumb-growth-plate.png',
+    img: 'img/growth-plate.webp', imgBack: 'img/growth-plate-back.webp', thumb: 'img/thumb-growth-plate.webp',
     labels: [
       {
         ar: 'الغضروف المفصلي', en: 'Articular cartilage', x: 22, y: 5, side: 'left',
@@ -144,7 +144,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'child-teeth', type: 'organ', system: 'organs',
     name: { ar: 'الأسنان اللبنية والدائمة', en: 'Baby and permanent teeth' },
-    img: 'img/child-teeth.png', imgBack: 'img/child-teeth-back.png', thumb: 'img/thumb-child-teeth.png',
+    img: 'img/child-teeth.webp', imgBack: 'img/child-teeth-back.webp', thumb: 'img/thumb-child-teeth.webp',
     labels: [
       {
         ar: 'عظم الفك العلوي', en: 'Upper jawbone (maxilla)', x: 52, y: 13, side: 'right',
@@ -271,7 +271,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'infant-skull', type: 'organ', system: 'skeleton',
     name: { ar: 'جمجمة الرضيع واليافوخ', en: 'The infant skull and its fontanelles' },
-    img: 'img/infant-skull.png', imgBack: 'img/infant-skull-back.png', thumb: 'img/thumb-infant-skull.png',
+    img: 'img/infant-skull.webp', imgBack: 'img/infant-skull-back.webp', thumb: 'img/thumb-infant-skull.webp',
     labels: [
       {
         ar: 'الدرز الجبهي (بين نصفَي الجبهة)', en: 'Metopic suture (between the two frontal halves)', x: 25, y: 9, side: 'left',
@@ -397,7 +397,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'ureter', type: 'organ', system: 'organs',
     name: { ar: 'الحالب', en: 'The ureter' },
-    img: 'img/ureter.png', imgBack: 'img/ureter-back.png', thumb: 'img/thumb-ureter.png',
+    img: 'img/ureter.webp', imgBack: 'img/ureter-back.webp', thumb: 'img/thumb-ureter.webp',
     labels: [
       {
         ar: 'الكلية', en: 'The kidney', x: 13, y: 13, side: 'left',

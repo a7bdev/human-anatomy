@@ -3,7 +3,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'meninges', type: 'organ', system: 'nervous',
     name: { ar: 'أغشية الدماغ والسائل الدماغي الشوكي', en: 'The meninges and cerebrospinal fluid' },
-    img: 'img/meninges.png', imgBack: 'img/meninges-back.png', thumb: 'img/thumb-meninges.png',
+    img: 'img/meninges.webp', imgBack: 'img/meninges-back.webp', thumb: 'img/thumb-meninges.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -130,7 +130,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'fertilization', type: 'organ', system: 'reproductive',
     name: { ar: 'الإخصاب', en: 'Fertilization' },
-    img: 'img/fertilization.png', imgBack: 'img/fertilization-back.png', thumb: 'img/thumb-fertilization.png',
+    img: 'img/fertilization.webp', imgBack: 'img/fertilization-back.webp', thumb: 'img/thumb-fertilization.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -236,7 +236,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'ovum', type: 'organ', system: 'reproductive',
     name: { ar: 'البويضة', en: 'The ovum' },
-    img: 'img/ovum.png', imgBack: 'img/ovum-back.png', thumb: 'img/thumb-ovum.png',
+    img: 'img/ovum.webp', imgBack: 'img/ovum-back.webp', thumb: 'img/thumb-ovum.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -341,7 +341,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'embryo', type: 'organ', system: 'reproductive',
     name: { ar: 'مراحل نمو الجنين', en: 'Stages of embryonic development' },
-    img: 'img/embryo.png', imgBack: 'img/embryo-back.png', thumb: 'img/thumb-embryo.png',
+    img: 'img/embryo.webp', imgBack: 'img/embryo-back.webp', thumb: 'img/thumb-embryo.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -454,7 +454,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'tendon-ligament', type: 'organ', system: 'muscles',
     name: { ar: 'الوتر والرباط', en: 'Tendon and ligament' },
-    img: 'img/tendon-ligament.png', imgBack: 'img/tendon-ligament-back.png', thumb: 'img/thumb-tendon-ligament.png',
+    img: 'img/tendon-ligament.webp', imgBack: 'img/tendon-ligament-back.webp', thumb: 'img/thumb-tendon-ligament.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -567,7 +567,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'liver-lobule', type: 'organ', system: 'organs',
     name: { ar: 'الفصيص الكبدي', en: 'The hepatic lobule' },
-    img: 'img/liver-lobule.png', imgBack: 'img/liver-lobule-back.png', thumb: 'img/thumb-liver-lobule.png',
+    img: 'img/liver-lobule.webp', imgBack: 'img/liver-lobule-back.webp', thumb: 'img/thumb-liver-lobule.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -673,7 +673,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'circulation', type: 'organ', system: 'vessels',
     name: { ar: 'الدورة الدموية', en: 'The circulation' },
-    img: 'img/circulation.png', imgBack: 'img/circulation-back.png', thumb: 'img/thumb-circulation.png',
+    img: 'img/circulation.webp', imgBack: 'img/circulation-back.webp', thumb: 'img/thumb-circulation.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

@@ -10,7 +10,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'erection', type: 'organ', system: 'reproductive',
     name: { ar: 'آلية الانتصاب والرعشة', en: 'Mechanism of erection and orgasm' },
-    img: 'img/erection.png', imgBack: 'img/erection-back.png', thumb: 'img/thumb-erection.png',
+    img: 'img/erection.webp', imgBack: 'img/erection-back.webp', thumb: 'img/thumb-erection.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

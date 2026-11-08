@@ -3,7 +3,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'mitosis', type: 'organ', system: 'skin',
     name: { ar: 'انقسام الخلية', en: 'Cell division (mitosis)' },
-    img: 'img/mitosis.png', imgBack: 'img/mitosis-back.png', thumb: 'img/thumb-mitosis.png',
+    img: 'img/mitosis.webp', imgBack: 'img/mitosis-back.webp', thumb: 'img/thumb-mitosis.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -137,7 +137,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'facial-muscles', type: 'organ', system: 'muscles',
     name: { ar: 'عضلات الوجه', en: 'Facial muscles' },
-    img: 'img/facial-muscles.png', imgBack: 'img/facial-muscles-back.png', thumb: 'img/thumb-facial-muscles.png',
+    img: 'img/facial-muscles.webp', imgBack: 'img/facial-muscles-back.webp', thumb: 'img/thumb-facial-muscles.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {
@@ -270,7 +270,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'rib-cage', type: 'organ', system: 'skeleton',
     name: { ar: 'القفص الصدري', en: 'Rib cage' },
-    img: 'img/rib-cage.png', imgBack: 'img/rib-cage-back.png', thumb: 'img/thumb-rib-cage.png',
+    img: 'img/rib-cage.webp', imgBack: 'img/rib-cage-back.webp', thumb: 'img/thumb-rib-cage.webp',
     /* تسميات الأجزاء فوق الصورة — x/y نسبة مئوية داخل الصورة، side جهة النص */
     labels: [
       {

@@ -11,7 +11,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'spinal-cord', type: 'organ', system: 'nervous',
     name: { ar: 'النخاع الشوكي', en: 'Spinal cord' },
-    img: 'img/spinal-cord.png', imgBack: 'img/spinal-cord-back.png', thumb: 'img/thumb-spinal-cord.png',
+    img: 'img/spinal-cord.webp', imgBack: 'img/spinal-cord-back.webp', thumb: 'img/thumb-spinal-cord.webp',
     labels: [
       {
         ar: 'الأم الجافية', en: 'Dura mater', x: 40, y: 9, side: 'left',
@@ -131,7 +131,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'neuron', type: 'organ', system: 'nervous',
     name: { ar: 'الخلية العصبية', en: 'Neuron' },
-    img: 'img/neuron.png', imgBack: 'img/neuron-back.png', thumb: 'img/thumb-neuron.png',
+    img: 'img/neuron.webp', imgBack: 'img/neuron-back.webp', thumb: 'img/thumb-neuron.webp',
     labels: [
       {
         ar: 'التغصّنات', en: 'Dendrites', x: 14, y: 11, side: 'left',
@@ -255,7 +255,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'bronchi', type: 'organ', system: 'organs',
     name: { ar: 'القصبة والشعب الهوائية', en: 'Trachea and bronchial tree' },
-    img: 'img/bronchi.png', imgBack: 'img/bronchi-back.png', thumb: 'img/thumb-bronchi.png',
+    img: 'img/bronchi.webp', imgBack: 'img/bronchi-back.webp', thumb: 'img/thumb-bronchi.webp',
     labels: [
       {
         ar: 'الحنجرة', en: 'Larynx', x: 49, y: 5, side: 'left',
@@ -368,7 +368,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'alveoli', type: 'organ', system: 'organs',
     name: { ar: 'الحويصلات الهوائية', en: 'Pulmonary alveoli' },
-    img: 'img/alveoli.png', imgBack: 'img/alveoli-back.png', thumb: 'img/thumb-alveoli.png',
+    img: 'img/alveoli.webp', imgBack: 'img/alveoli-back.webp', thumb: 'img/thumb-alveoli.webp',
     labels: [
       {
         ar: 'الشعيبة الانتهائية', en: 'Terminal bronchiole', x: 10, y: 7, side: 'left',
@@ -488,7 +488,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'blood', type: 'organ', system: 'vessels',
     name: { ar: 'الدم', en: 'Blood' },
-    img: 'img/blood.png', imgBack: 'img/blood-back.png', thumb: 'img/thumb-blood.png',
+    img: 'img/blood.webp', imgBack: 'img/blood-back.webp', thumb: 'img/thumb-blood.webp',
     labels: [
       {
         ar: 'كريّة الدم الحمراء', en: 'Red blood cell', x: 17, y: 19, side: 'left',
@@ -592,7 +592,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'vessel-types', type: 'organ', system: 'vessels',
     name: { ar: 'أنواع الأوعية الدموية', en: 'Types of blood vessel' },
-    img: 'img/vessel-types.png', imgBack: 'img/vessel-types-back.png', thumb: 'img/thumb-vessel-types.png',
+    img: 'img/vessel-types.webp', imgBack: 'img/vessel-types-back.webp', thumb: 'img/thumb-vessel-types.webp',
     labels: [
       {
         ar: 'الغلاف الخارجي', en: 'Outer coat (tunica externa)', x: 20, y: 16, side: 'left',
@@ -712,7 +712,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'pharynx', type: 'organ', system: 'organs',
     name: { ar: 'البلعوم واللوزتان', en: 'Pharynx and tonsils' },
-    img: 'img/pharynx.png', imgBack: 'img/pharynx-back.png', thumb: 'img/thumb-pharynx.png',
+    img: 'img/pharynx.webp', imgBack: 'img/pharynx-back.webp', thumb: 'img/thumb-pharynx.webp',
     labels: [
       {
         ar: 'تجويف الأنف', en: 'Nasal cavity', x: 25, y: 20, side: 'left',
@@ -847,7 +847,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'salivary-glands', type: 'organ', system: 'organs',
     name: { ar: 'الغدد اللعابية', en: 'Salivary glands' },
-    img: 'img/salivary-glands.png', imgBack: 'img/salivary-glands-back.png', thumb: 'img/thumb-salivary-glands.png',
+    img: 'img/salivary-glands.webp', imgBack: 'img/salivary-glands-back.webp', thumb: 'img/thumb-salivary-glands.webp',
     labels: [
       {
         ar: 'صيوان الأذن', en: 'Auricle of the ear', x: 9, y: 9, side: 'left',
@@ -960,7 +960,7 @@ ORGANS = ORGANS.concat([
   {
     id: 'appendix', type: 'organ', system: 'organs',
     name: { ar: 'الزائدة الدودية', en: 'Vermiform appendix' },
-    img: 'img/appendix.png', imgBack: 'img/appendix-back.png', thumb: 'img/thumb-appendix.png',
+    img: 'img/appendix.webp', imgBack: 'img/appendix-back.webp', thumb: 'img/thumb-appendix.webp',
     labels: [
       {
         ar: 'الأعور', en: 'Caecum', x: 18, y: 15, side: 'left',
