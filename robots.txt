@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anatomy.a7bdev.com/sitemap.xml
